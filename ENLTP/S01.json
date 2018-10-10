@@ -1,0 +1,220 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2016-10-25",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Turun Balloseura",
+    "team_2": "Angers SCO",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1003743\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1003786\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1003651\"],\"Half 2\":[\"http:\/\/pastebin.com\/aZkFA680\",\"http:\/\/tagpro.eu\/?match=1003703\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-10-25",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "failed's heroes",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/ngAFEf8R\",\"http:\/\/tagpro.eu\/?match=1003542\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1003580\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1003619\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1003647\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-10-25",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "FC Jukerecht",
+    "team_2": "Popsford Jukenited",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1003655\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1003704\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1003741\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1003781\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-01",
+    "map": "Pilot &amp; Market",
+    "team_1": "Angers SCO",
+    "team_2": "failed's heroes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"FORFEIT\"],\"Half 2\":[\"FORFEIT\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1026336\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1026361\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-01",
+    "map": "Pilot &amp; Market",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Popsford Jukenited",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1026164\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1026189\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1026207\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1026225\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-01",
+    "map": "Pilot &amp; Market",
+    "team_1": "Turun Balloseura",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/zY0r94cj\",\"https:\/\/tagpro.eu\/?match=1026265\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1026299\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1026323\"],\"Half 2\":[\"http:\/\/pastebin.com\/f3gRr54N\",\"https:\/\/tagpro.eu\/?match=1026353\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-11-08",
+    "map": "Market &amp; Transilio",
+    "team_1": "failed's heroes",
+    "team_2": "Popsford Jukenited",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1038973\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1039011\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1039039\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1039055\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-11-08",
+    "map": "Market &amp; Transilio",
+    "team_1": "Angers SCO",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1038997\"],\"Half 2\":[\"http:\/\/pastebin.com\/g5r3ba8g\",\"https:\/\/tagpro.eu\/?match=1039032\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/eJNuTSKE\",\"https:\/\/tagpro.eu\/?match=1039058\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1039085\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-11-08",
+    "map": "Market &amp; Transilio",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Turun Balloseura",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1039002\"],\"Half 2\":[\"http:\/\/pastebin.com\/DvMYsSe7\",\"https:\/\/tagpro.eu\/?match=1039038\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1039056\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1039084\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-11-15",
+    "map": "Transilio &amp; Atomic",
+    "team_1": "FC Jukerecht",
+    "team_2": "failed's heroes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/YgZSusYr\",\"https:\/\/tagpro.eu\/?match=1051877\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1051922\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1051958\"],\"Half 2\":[\"http:\/\/pastebin.com\/vHzF8w7r\",\"https:\/\/tagpro.eu\/?match=1052015\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-11-15",
+    "map": "Transilio &amp; Atomic",
+    "team_1": "Popsford Jukenited",
+    "team_2": "Turun Balloseura",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1051684\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1051715\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1051744\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1051778\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-11-15",
+    "map": "Transilio &amp; Atomic",
+    "team_1": "Angers SCO",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1051798\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1051837\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1051885\"],\"Half 2\":[\"http:\/\/pastebin.com\/uEifPQ7E\",\"https:\/\/tagpro.eu\/?match=1051928\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-11-22",
+    "map": "Atomic &amp; IRON",
+    "team_1": "failed's heroes",
+    "team_2": "Turun Balloseura",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1065427\"],\"Half 2\":[\"http:\/\/pastebin.com\/rsCFGArW\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1065489\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1065507\",\"https:\/\/tagpro.eu\/?match=1065526\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-11-22",
+    "map": "Atomic &amp; IRON",
+    "team_1": "FC Jukerecht",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1065530\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1065561\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1065585\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1065611\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-11-22",
+    "map": "Atomic &amp; IRON",
+    "team_1": "Popsford Jukenited",
+    "team_2": "Angers SCO",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1065522\"],\"Half 2\":[\"http:\/\/pastebin.com\/4ssi52Bi\",\"https:\/\/tagpro.eu\/?match=1065558\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1065595\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1065625\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-11-29",
+    "map": "IRON &amp; Rush",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "failed's heroes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1078664\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1078686\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-11-29",
+    "map": "IRON &amp; Rush",
+    "team_1": "Angers SCO",
+    "team_2": "Turun Balloseura",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1078651\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1078681\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-11-29",
+    "map": "IRON &amp; Rush",
+    "team_1": "Popsford Jukenited",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1078666\"],\"Half 2\":[\"http:\/\/pastebin.com\/96LF3mqt\",\"https:\/\/tagpro.eu\/?match=1078693\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-11-29",
+    "map": "IRON &amp; Rush",
+    "team_1": "failed's heroes",
+    "team_2": "Angers SCO",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1078750\"],\"Half 2\":[\"http:\/\/pastebin.com\/hsm1dLX4\",\"https:\/\/tagpro.eu\/?match=1078793\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-11-29",
+    "map": "IRON &amp; Rush",
+    "team_1": "Popsford Jukenited",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1078563\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1078585\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-11-29",
+    "map": "IRON &amp; Rush",
+    "team_1": "FC Jukerecht",
+    "team_2": "Turun Balloseura",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1078749\"],\"Half 2\":[\"http:\/\/pastebin.com\/cc33saG6\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Rush &amp; Community Map",
+    "team_1": "Popsford Jukenited",
+    "team_2": "failed's heroes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1098907\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1098934\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Rush &amp; Community Map",
+    "team_1": "Angers SCO",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1094758\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1094787\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Rush &amp; Community Map",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Turun Balloseura",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/kTjvfn6F\",\"https:\/\/tagpro.eu\/?match=1094768\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1094802\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Rush &amp; Community Map",
+    "team_1": "failed's heroes",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1109737\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1109772\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Rush &amp; Community Map",
+    "team_1": "Turun Balloseura",
+    "team_2": "Popsford Jukenited",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1094681\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1094717\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Rush &amp; Community Map",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Angers SCO",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1094840\"],\"Half 2\":[\"http:\/\/pastebin.com\/gcgWFN31\",\"https:\/\/tagpro.eu\/?match=1094886\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Community Map",
+    "team_1": "Turun Balloseura",
+    "team_2": "failed's heroes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1109652\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1109678\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Community Map",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1109648\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1109681\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Community Map",
+    "team_1": "Angers SCO",
+    "team_2": "Popsford Jukenited",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1109650\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1109693\"]}}"
+}]

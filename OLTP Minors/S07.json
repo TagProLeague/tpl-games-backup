@@ -1,0 +1,115 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-02-15",
+    "map": "",
+    "team_1": "Alex Jones",
+    "team_2": "Ichi Ni San Shi",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1241735\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1241739\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "",
+    "team_1": "The Milo in2TAGPRO Program",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1288284\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1288293\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-02-13",
+    "map": "",
+    "team_1": "The Flag Bearers",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1238530\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1238535\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-03-06",
+    "map": "",
+    "team_1": "The Milo in2TAGPRO Program",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1275937\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1275946\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-03-06",
+    "map": "",
+    "team_1": "Ichi Ni San Shi",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1275964\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1275972\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-03-06",
+    "map": "",
+    "team_1": "The Flag Bearers",
+    "team_2": "Alex Jones",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1275996\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1276003\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-03-13",
+    "map": "",
+    "team_1": "Alex Jones",
+    "team_2": "The Milo in2TAGPRO Program",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1288276\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1288267\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-03-13",
+    "map": "",
+    "team_1": "The Flag Bearers",
+    "team_2": "Ichi Ni San Shi",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1288258\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1288260\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-03-13",
+    "map": "",
+    "team_1": "Pink's Men",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1288268\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1288280\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-02-20",
+    "map": "IRON &amp; Vagabond",
+    "team_1": "Pink's Men",
+    "team_2": "Ichi Ni San Shi",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1250052\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1250059\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-02-20",
+    "map": "IRON &amp; Vagabond",
+    "team_1": "The Flag Bearers",
+    "team_2": "The Milo in2TAGPRO Program",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1250067\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1250070\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-02-20",
+    "map": "IRON &amp; Vagabond",
+    "team_1": "The BallBusters",
+    "team_2": "Alex Jones",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1250076\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1250082\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-02-27",
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "The BallBusters",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1262931\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1262939\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-02-27",
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "Alex Jones",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1262945\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1262950\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-02-27",
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "Ichi Ni San Shi",
+    "team_2": "The Milo in2TAGPRO Program",
+    "links": ""
+}]

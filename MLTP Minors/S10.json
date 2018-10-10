@@ -1,0 +1,570 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Angry Balls",
+    "team_2": "Ball\u20achimedes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795058\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795084\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795109\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795131\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Texas Hold'em",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795115\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795143\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795178\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795201\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Los Santos Pings",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795090\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795113\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795139\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795163\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Capper's Delight",
+    "team_2": "Tears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794939\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794978\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795020\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795051\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Ghostboosters",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794917\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794954\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794996\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795034\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Pup 'N Suds",
+    "team_2": "Baltesers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794943\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794986\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=795029\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=795061\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Origin Ducks",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794874\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794909\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794937\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794974\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "EMERALD, Monarch",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Holy Rollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794754\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794785\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794812\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794853\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "Los Santos Pings",
+    "team_2": "Angry Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804444\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804475\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804523\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804553\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "Ball\u20achimedes",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804267\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804302\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804339\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804378\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "Capper's Delight",
+    "team_2": "Texas Hold'em",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804416\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804445\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804477\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804518\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Tears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804607\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804639\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804672\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804701\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "Origin Ducks",
+    "team_2": "Ghostboosters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804117\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804154\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804202\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804239\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "MEME*TEAM",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804351\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804392\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804422\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804452\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Pup 'N Suds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=806054\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=806081\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=806118\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=806163\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "Monarch, Wormy",
+    "team_1": "Baltesers",
+    "team_2": "Holy Rollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804226\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804275\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=804315\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=804345\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Angry Balls",
+    "team_2": "Texas Hold'em",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816598\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816629\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816661\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816697\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Ball\u20achimedes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816592\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816622\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816647\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816674\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Capper's Delight",
+    "team_2": "Los Santos Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816607\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816634\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816662\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816698\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Tears",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816581\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816626\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816656\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816689\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Ghostboosters",
+    "team_2": "Pup 'N Suds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816505\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816545\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816574\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816602\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Baltesers",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816516\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816563\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816588\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816619\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Origin Ducks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816580\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816608\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816638\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816666\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-06-27",
+    "map": "Wormy, TWP",
+    "team_1": "Holy Rollers",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816418\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816450\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=816486\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=816520\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "Tears",
+    "team_2": "Angry Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837359\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837387\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837409\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837439\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "Ball\u20achimedes",
+    "team_2": "Los Santos Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837338\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837365\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837397\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837427\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "Chase Jam",
+    "team_2": "Texas Hold'em",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837348\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837375\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837408\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837435\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Capper's Delight",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837450\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837471\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837483\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837496\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "Holy Rollers",
+    "team_2": "Ghostboosters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837144\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837170\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837196\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837218\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "MEME*TEAM",
+    "team_2": "Origin Ducks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837228\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837262\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837300\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837327\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "ProBots",
+    "team_2": "Pup 'N Suds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837223\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837243\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837280\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837311\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "TWP, Boombox",
+    "team_1": "Baltesers",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837209\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837229\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=837254\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=837281\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Angry Balls",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=847261\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=847270\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=847288\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=847300\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Texas Hold'em",
+    "team_2": "Ball\u20achimedes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=847055\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=847086\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=847117\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=847138\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Los Santos Pings",
+    "team_2": "Tears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=848417\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=848442\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=848487\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=848515\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Capper's Delight",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=847068\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=847099\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=847133\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=847156\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Ghostboosters",
+    "team_2": "Baltesers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846919\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846950\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846992\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=847023\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Pup 'N Suds",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846928\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846951\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846978\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=847006\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Origin Ducks",
+    "team_2": "Holy Rollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846840\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846856\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846872\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846893\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "Boombox, Pilot",
+    "team_1": "Boostin Dynamo",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846879\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846899\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846921\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846942\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "Ball\u20achimedes",
+    "team_2": "Angry Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=856406\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=856430\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=856455\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=856480\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Texas Hold'em",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856675\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856690\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856706\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856717\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "Chase Jam",
+    "team_2": "Los Santos Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856408\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856435\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856466\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856504\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "Tears",
+    "team_2": "Capper's Delight",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856465\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856485\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856510\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856536\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "MEME*TEAM",
+    "team_2": "Ghostboosters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856402\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856428\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856453\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856479\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "Baltesers",
+    "team_2": "Pup 'N Suds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856386\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856409\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856438\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856468\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "ProBots",
+    "team_2": "Origin Ducks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856334\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856371\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856395\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856422\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-07-25",
+    "map": "Pilot, Smirk",
+    "team_1": "Holy Rollers",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856266\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856288\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=856311\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=856338\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "Angry Balls",
+    "team_2": "Capper's Delight",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=866629\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=866653\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=866672\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=866694\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "Tears",
+    "team_2": "Ball\u20achimedes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=871349\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=871372\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=871395\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=871412\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "Texas Hold'em",
+    "team_2": "Los Santos Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866639\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866656\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866683\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866700\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "Chase Jam",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866676\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866699\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866726\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866751\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "Ghostboosters",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866582\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866609\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866635\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866654\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "Holy Rollers",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866571\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866601\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866623\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866649\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "Pup 'N Suds",
+    "team_2": "Origin Ducks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866548\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866574\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866603\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866622\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-01",
+    "map": "Smirk, Scorpio",
+    "team_1": "ProBots",
+    "team_2": "Baltesers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866604\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866631\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866657\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866681\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "Texas Hold'em",
+    "team_2": "Angry Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=872693\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=872709\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=872732\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=872745\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "Ball\u20achimedes",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877457\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877492\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877512\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877536\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "Los Santos Pings",
+    "team_2": "Capper's Delight",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877462\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877487\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877521\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877547\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "Tears",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877316\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877339\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877369\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877402\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "Pup 'N Suds",
+    "team_2": "Ghostboosters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877399\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877434\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877465\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877488\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "MEME*TEAM",
+    "team_2": "Baltesers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877377\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877431\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877471\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877500\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "Origin Ducks",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877243\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877255\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877282\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877305\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-08-08",
+    "map": "Scorpio, Community",
+    "team_1": "Holy Rollers",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877266\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877294\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=877317\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=877353\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Angry Balls",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=888235\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=888266\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=888304\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=888332\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Capper's Delight",
+    "team_2": "Ball\u20achimedes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888340\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888373\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888398\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888419\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Texas Hold'em",
+    "team_2": "Tears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888195\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888213\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888237\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888261\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Los Santos Pings",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888401\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888424\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888450\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888478\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Ghostboosters",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888206\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888233\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888267\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888302\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Boostin Dynamo",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888210\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888242\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888276\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888305\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Pup 'N Suds",
+    "team_2": "Holy Rollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888198\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888218\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888241\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888269\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-08-15",
+    "map": "Community, Transilio",
+    "team_1": "Origin Ducks",
+    "team_2": "Baltesers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888358\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888385\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=888412\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=888440\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Angry Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=898876\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=898899\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=898935\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=898955\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "Ball\u20achimedes",
+    "team_2": "Texas Hold'em",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898797\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898823\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898846\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898867\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "Tears",
+    "team_2": "Los Santos Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898911\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898933\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898952\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898975\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "Capper's Delight",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898871\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898894\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898918\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898943\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "Baltesers",
+    "team_2": "Ghostboosters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898854\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898882\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898902\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898931\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "MEME*TEAM",
+    "team_2": "Pup 'N Suds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898862\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898885\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898906\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898936\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "Holy Rollers",
+    "team_2": "Origin Ducks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898711\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898734\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=898768\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=898791\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-08-22",
+    "map": "Transilio, EMERALD",
+    "team_1": "Boostin Dynamo",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=898821\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=898851\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=898879\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=898900\"]}}"
+}]

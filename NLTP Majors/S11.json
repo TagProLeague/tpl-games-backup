@@ -1,0 +1,304 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-11-28",
+    "map": "Transilio \/ Cedar",
+    "team_1": "The Handoff God",
+    "team_2": "Blockwork Orange",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684534\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684565\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684580\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684598\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-11-28",
+    "map": "Transilio \/ Cedar",
+    "team_1": "A\u00a2AP Mob",
+    "team_2": "Blackcaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684489\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684507\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684526\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684545\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-11-28",
+    "map": "Transilio \/ Cedar",
+    "team_1": "Big Black Blocks",
+    "team_2": "Nevermores",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684461\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684473\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684487\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684501\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-11-28",
+    "map": "Transilio \/ Cedar",
+    "team_1": "Bust a Pup",
+    "team_2": "TC Boosts",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684499\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684515\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684535\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684561\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-11-28",
+    "map": "Transilio \/ Cedar",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684585\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684596\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684611\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684634\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-11-28",
+    "map": "Transilio \/ Cedar",
+    "team_1": "Attack the Block",
+    "team_2": "Han Solos and Chewbotca",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684606\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684621\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1684649\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1684667\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-12-05",
+    "map": "Cedar \/ Monarch",
+    "team_1": "A\u00a2AP Mob",
+    "team_2": "The Handoff God",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693550\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693569\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693580\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693590\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-12-05",
+    "map": "Cedar \/ Monarch",
+    "team_1": "Blockwork Orange",
+    "team_2": "Blackcaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693641\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693650\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693666\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693680\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-12-05",
+    "map": "Cedar \/ Monarch",
+    "team_1": "Big Black Blocks",
+    "team_2": "Bust a Pup",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693572\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693582\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693593\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693605\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-12-05",
+    "map": "Cedar \/ Monarch",
+    "team_1": "Nevermores",
+    "team_2": "TC Boosts",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693541\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693559\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693575\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693584\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-12-05",
+    "map": "Cedar \/ Monarch",
+    "team_1": "Attack the Block",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/2MtEdTss\",\"https:\/\/tagpro.eu\/?match=1693616\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693633\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693647\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693662\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-12-05",
+    "map": "Cedar \/ Monarch",
+    "team_1": "The Land Before Timers",
+    "team_2": "Han Solos and Chewbotca",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693672\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693690\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1693712\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1693730\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-12-12",
+    "map": "Monarch \/ Market",
+    "team_1": "The Handoff God",
+    "team_2": "Big Black Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702742\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702757\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702768\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702788\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-12-12",
+    "map": "Monarch \/ Market",
+    "team_1": "A\u00a2AP Mob",
+    "team_2": "Bust a Pup",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702779\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702795\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702809\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702824\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-12-12",
+    "map": "Monarch \/ Market",
+    "team_1": "Blockwork Orange",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702797\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702815\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702835\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702857\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1702861\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-12-12",
+    "map": "Monarch \/ Market",
+    "team_1": "Blackcaps",
+    "team_2": "Attack the Block",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702784\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702803\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702818\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702841\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-12-12",
+    "map": "Monarch \/ Market",
+    "team_1": "TC Boosts",
+    "team_2": "Han Solos and Chewbotca",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702872\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702885\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702901\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702914\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-12-12",
+    "map": "Monarch \/ Market",
+    "team_1": "The Land Before Timers",
+    "team_2": "Nevermores",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702813\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702829\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1702851\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1702864\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-12-19",
+    "map": "Market \/ Constriction",
+    "team_1": "The Handoff God",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711374\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711391\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711409\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711425\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-12-19",
+    "map": "Market \/ Constriction",
+    "team_1": "A\u00a2AP Mob",
+    "team_2": "Attack the Block",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711421\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711444\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711460\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711479\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-12-19",
+    "map": "Market \/ Constriction",
+    "team_1": "Blockwork Orange",
+    "team_2": "Nevermores",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711393\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711408\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711422\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711440\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-12-19",
+    "map": "Market \/ Constriction",
+    "team_1": "Blackcaps",
+    "team_2": "TC Boosts",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711367\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711385\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711401\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711418\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-12-19",
+    "map": "Market \/ Constriction",
+    "team_1": "Big Black Blocks",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711434\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711452\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711468\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711484\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-12-19",
+    "map": "Market \/ Constriction",
+    "team_1": "Bust a Pup",
+    "team_2": "Han Solos and Chewbotca",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711438\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711457\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1711471\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1711483\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-01-09",
+    "map": "Constriction\/Emerald",
+    "team_1": "The Handoff God",
+    "team_2": "Nevermores",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733042\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733053\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733066\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733078\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-01-09",
+    "map": "Constriction\/Emerald",
+    "team_1": "A\u00a2AP Mob",
+    "team_2": "TC Boosts",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1732996\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733009\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/BFfbCFJk\"],\"Half 2\":[\"https:\/\/pastebin.com\/SiRBg5x9\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-01-09",
+    "map": "Constriction\/Emerald",
+    "team_1": "Blockwork Orange",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733051\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733062\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733074\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733087\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-01-09",
+    "map": "Constriction\/Emerald",
+    "team_1": "Blackcaps",
+    "team_2": "Han Solos and Chewbotca",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733079\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733090\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733102\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733116\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-01-09",
+    "map": "Constriction\/Emerald",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Big Black Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733023\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733043\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733055\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733064\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-01-09",
+    "map": "Constriction\/Emerald",
+    "team_1": "Attack the Block",
+    "team_2": "Bust a Pup",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733017\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733030\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1733047\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1733059\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-01-16",
+    "map": "Emerald\/Vardo",
+    "team_1": "The Handoff God",
+    "team_2": "Han Solos and Chewbotca",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740953\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740967\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740979\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740995\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-01-16",
+    "map": "Emerald\/Vardo",
+    "team_1": "A\u00a2AP Mob",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740945\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740962\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740971\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740982\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-01-16",
+    "map": "Emerald\/Vardo",
+    "team_1": "Blockwork Orange",
+    "team_2": "Big Black Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740917\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740941\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740957\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740969\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-01-16",
+    "map": "Emerald\/Vardo",
+    "team_1": "Blackcaps",
+    "team_2": "Bust a Pup",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740885\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740899\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740925\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740940\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-01-16",
+    "map": "Emerald\/Vardo",
+    "team_1": "Nevermores",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740914\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740939\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740958\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740970\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-01-16",
+    "map": "Emerald\/Vardo",
+    "team_1": "TC Boosts",
+    "team_2": "Attack the Block",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740903\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740929\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1740943\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1740959\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-01-23",
+    "map": "Vardo\/Transilio",
+    "team_1": "A\u00a2AP Mob",
+    "team_2": "The Handoff God",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749423\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749439\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749455\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749469\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1749485\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-01-23",
+    "map": "Vardo\/Transilio",
+    "team_1": "Blockwork Orange",
+    "team_2": "Blackcaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749396\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749413\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749431\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749449\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-01-23",
+    "map": "Vardo\/Transilio",
+    "team_1": "Big Black Blocks",
+    "team_2": "Bust a Pup",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749400\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749420\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749437\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749458\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-01-23",
+    "map": "Vardo\/Transilio",
+    "team_1": "Nevermores",
+    "team_2": "TC Boosts",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/Zk6cEs6M\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749433\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749447\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749464\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-01-23",
+    "map": "Vardo\/Transilio",
+    "team_1": "Attack the Block",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749425\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749442\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749461\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749478\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-01-23",
+    "map": "Vardo\/Transilio",
+    "team_1": "The Land Before Timers",
+    "team_2": "Han Solos and Chewbotca",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/1DZD0FPa\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749545\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1749569\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1749587\"]}}"
+}]

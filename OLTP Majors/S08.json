@@ -1,0 +1,115 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-07-09",
+    "map": "Transilio &amp; Wormy",
+    "team_1": "The Ballchemist's",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1490639\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1490645\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1490659\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1490667\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-07-09",
+    "map": "Transilio &amp; Wormy",
+    "team_1": "The Cap-22's",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1492172\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1492177\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1492187\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1492194\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-07-10",
+    "map": "Transilio &amp; Wormy",
+    "team_1": "Send Bum Pics",
+    "team_2": "Charlie Sheen",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1492197\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1492200\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1492205\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1492209\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-16",
+    "map": "Constriction &amp; EMERALD",
+    "team_1": "Charlie Sheen",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1501158\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1501170\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1501179\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1501188\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-16",
+    "map": "Constriction &amp; EMERALD",
+    "team_1": "Send Bum Pics",
+    "team_2": "The Cap-22's",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1501152\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1501159\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1501172\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1501182\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-17",
+    "map": "Constriction &amp; EMERALD",
+    "team_1": "The Flag Bearers",
+    "team_2": "The Ballchemist's",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502884\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502891\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502899\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502907\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-23",
+    "map": "Scorpio &amp; Star",
+    "team_1": "The Flag Bearers",
+    "team_2": "Send Bum Pics",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1511605\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1511611\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1511616\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1511619\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-23",
+    "map": "Scorpio &amp; Star",
+    "team_1": "The Ballchemist's",
+    "team_2": "Charlie Sheen",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1513235\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1513242\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1513249\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1513256\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-24",
+    "map": "Scorpio &amp; Star",
+    "team_1": "Pink's Men",
+    "team_2": "The Cap-22's",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1513201\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1513206\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1513213\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1513219\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-07-30",
+    "map": "IRON &amp; Velocity",
+    "team_1": "The Cap-22's",
+    "team_2": "Charlie Sheen",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523676\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523678\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523683\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523688\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-07-30",
+    "map": "IRON &amp; Velocity",
+    "team_1": "Pink's Men",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1522214\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1522217\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1522221\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1522223\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-07-31",
+    "map": "IRON &amp; Velocity",
+    "team_1": "Send Bum Pics",
+    "team_2": "The Ballchemist's",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523687\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523689\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523698\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523699\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-06",
+    "map": "Pilot &amp; Vardo",
+    "team_1": "The Ballchemist's",
+    "team_2": "The Cap-22's",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532770\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532775\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532783\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532792\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-06",
+    "map": "Pilot &amp; Vardo",
+    "team_1": "Send Bum Pics",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1531356\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1531362\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1531366\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1531370\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-07",
+    "map": "Pilot &amp; Vardo",
+    "team_1": "Charlie Sheen",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532779\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532786\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532795\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532801\"]}}"
+}]

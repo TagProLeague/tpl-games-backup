@@ -1,0 +1,115 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": null,
+    "map": "Tehuitzingo &amp; Wormy",
+    "team_1": "Cap 22s",
+    "team_2": "BLOCKHAMPTON",
+    "links": ""
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Tehuitzingo &amp; Wormy",
+    "team_1": "Nooga's in Paris",
+    "team_2": "Pink's Men",
+    "links": ""
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Tehuitzingo &amp; Wormy",
+    "team_1": "Emilia Clarke",
+    "team_2": "Captors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1773229\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1773231\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Star &amp; Pilot",
+    "team_1": "Captors",
+    "team_2": "BLOCKHAMPTON",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1782926\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1782931\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Star &amp; Pilot",
+    "team_1": "Emilia Clarke",
+    "team_2": "Nooga's in Paris",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1782939\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1782942\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Star &amp; Pilot",
+    "team_1": "Pink's Men",
+    "team_2": "Cap 22s",
+    "links": ""
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Straight Cache Homie &amp; Transilio",
+    "team_1": "Pink's Men",
+    "team_2": "Emilia Clarke",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1790460\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1790462\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Straight Cache Homie &amp; Transilio",
+    "team_1": "Cap 22s",
+    "team_2": "Captors",
+    "links": ""
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Straight Cache Homie &amp; Transilio",
+    "team_1": "BLOCKHAMPTON",
+    "team_2": "Nooga's in Paris",
+    "links": ""
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "Nooga's in Paris",
+    "team_2": "Captors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1798511\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1798512\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "BLOCKHAMPTON",
+    "team_2": "Pink's Men",
+    "links": ""
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "Emilia Clarke",
+    "team_2": "Cap 22s",
+    "links": ""
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "IRON &amp; Floral Mappe",
+    "team_1": "Cap 22s",
+    "team_2": "Nooga's in Paris",
+    "links": ""
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "IRON &amp; Floral Mappe",
+    "team_1": "Emilia Clarke",
+    "team_2": "BLOCKHAMPTON",
+    "links": ""
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "IRON &amp; Floral Mappe",
+    "team_1": "Captors",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1805770\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1805776\"]}}"
+}]

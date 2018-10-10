@@ -1,0 +1,115 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2018-02-11",
+    "map": "Tehuitzingo &amp; Wormy",
+    "team_1": "Cap 22s",
+    "team_2": "BLOCKHAMPTON",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/raw\/cMFSBBBK\"],\"Half 2\":[\"https:\/\/pastebin.com\/raw\/ikuwQbkW\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/raw\/pb5xJQM5\"],\"Half 2\":[\"https:\/\/pastebin.com\/raw\/3QH1LVWj\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2018-02-11",
+    "map": "Tehuitzingo &amp; Wormy",
+    "team_1": "Nooga's in Paris",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/4X9ef1Wy\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1770720\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/Ucwjz8S8\"],\"Half 2\":[\"https:\/\/pastebin.com\/BdftGujc\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2018-02-13",
+    "map": "Tehuitzingo &amp; Wormy",
+    "team_1": "Emilia Clarke",
+    "team_2": "Captors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1772053\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1772058\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1772059\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1772061\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2018-02-19",
+    "map": "Star &amp; Pilot",
+    "team_1": "Captors",
+    "team_2": "BLOCKHAMPTON",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1781389\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1781395\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1781399\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1781402\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2018-02-18",
+    "map": "Star &amp; Pilot",
+    "team_1": "Emilia Clarke",
+    "team_2": "Nooga's in Paris",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1779749\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1779753\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1779756\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1779757\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2018-02-20",
+    "map": "Star &amp; Pilot",
+    "team_1": "Pink's Men",
+    "team_2": "Cap 22s",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1782947\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1782952\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1782957\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1782962\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2018-02-25",
+    "map": "Straight Cache Homie &amp; Transilio",
+    "team_1": "Pink's Men",
+    "team_2": "Emilia Clarke",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1790463\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1790464\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1790466\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1790468\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2018-02-25",
+    "map": "Straight Cache Homie &amp; Transilio",
+    "team_1": "Cap 22s",
+    "team_2": "Captors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1789358\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1789359\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1789361\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1789362\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2018-02-26",
+    "map": "Straight Cache Homie &amp; Transilio",
+    "team_1": "BLOCKHAMPTON",
+    "team_2": "Nooga's in Paris",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1789354\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1789355\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1789356\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1789357\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2018-03-04",
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "Nooga's in Paris",
+    "team_2": "Captors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1797414\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1797415\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/raw\/qpsdVAqX\"],\"Half 2\":[\"https:\/\/pastebin.com\/raw\/ekFT31cb\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2018-03-04",
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "BLOCKHAMPTON",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1796030\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1796033\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1796037\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1796039\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2018-03-05",
+    "map": "Constriction &amp; Scorpio",
+    "team_1": "Emilia Clarke",
+    "team_2": "Cap 22s",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/egD2Renc\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1797407\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1797410\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1797412\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-04-11",
+    "map": "IRON &amp; Floral Mappe",
+    "team_1": "Cap 22s",
+    "team_2": "Nooga's in Paris",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1804707\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1804709\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1804714\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1804716\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-04-11",
+    "map": "IRON &amp; Floral Mappe",
+    "team_1": "Emilia Clarke",
+    "team_2": "BLOCKHAMPTON",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1804704\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1804706\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?download=1804708\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?download=1804710\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2018-04-12",
+    "map": "IRON &amp; Floral Mappe",
+    "team_1": "Captors",
+    "team_2": "Pink's Men",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1805793\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1805798\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1805803\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1805808\"]}}"
+}]

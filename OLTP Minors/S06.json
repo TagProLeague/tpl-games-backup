@@ -1,0 +1,220 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2016-07-25",
+    "map": "Velocity",
+    "team_1": "Biscotti's Bros",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=855388\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=855391\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-07-25",
+    "map": "Velocity",
+    "team_1": "Steven Seagal",
+    "team_2": "Cap 22s",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=855421\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=855429\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-07-25",
+    "map": "Velocity",
+    "team_1": "The Flag Bearers",
+    "team_2": "Block Party",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=855428\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=855436\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-08-01",
+    "map": "Monarch",
+    "team_1": "Cap 22s",
+    "team_2": "Biscotti's Bros",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=865539\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=865544\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-08-01",
+    "map": "Monarch",
+    "team_1": "Block Party",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=865559\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=865564\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-08-01",
+    "map": "Monarch",
+    "team_1": "The Flag Bearers",
+    "team_2": "Steven Seagal",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=865568\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=865576\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-08-08",
+    "map": "Transilio",
+    "team_1": "Biscotti's Bros",
+    "team_2": "Block Party",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=876321\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876326\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-08-08",
+    "map": "Transilio",
+    "team_1": "Cap 22s",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=876340\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876352\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-08-08",
+    "map": "Transilio",
+    "team_1": "The BallBusters",
+    "team_2": "Steven Seagal",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=876323\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876328\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-08-15",
+    "map": "Constriction",
+    "team_1": "The Flag Bearers",
+    "team_2": "Biscotti's Bros",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=887233\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=887237\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-08-15",
+    "map": "Constriction",
+    "team_1": "Steven Seagal",
+    "team_2": "Block Party",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/raw\/J6f8XWe1\"],\"Half 2\":[\"http:\/\/pastebin.com\/raw\/ESQJG7EH\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-08-15",
+    "map": "Constriction",
+    "team_1": "The BallBusters",
+    "team_2": "Cap 22s",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=887272\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=887281\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-08-22",
+    "map": "Jagged",
+    "team_1": "Biscotti's Bros",
+    "team_2": "Steven Seagal",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=897786\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=897789\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-08-22",
+    "map": "Jagged",
+    "team_1": "The Flag Bearers",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=897801\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=897804\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-08-22",
+    "map": "Jagged",
+    "team_1": "Block Party",
+    "team_2": "Cap 22s",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=897806\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=897810\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-09-05",
+    "map": "Smirk",
+    "team_1": "Block Party",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=919953\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=919960\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-09-05",
+    "map": "Smirk",
+    "team_1": "Cap 22s",
+    "team_2": "Steven Seagal",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=919978\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=919989\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-09-05",
+    "map": "Smirk",
+    "team_1": "The BallBusters",
+    "team_2": "Biscotti's Bros",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=919954\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=919966\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-09-12",
+    "map": "IRON",
+    "team_1": "Steven Seagal",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=931784\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=931790\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-09-12",
+    "map": "IRON",
+    "team_1": "The BallBusters",
+    "team_2": "Block Party",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=931809\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=931819\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-09-12",
+    "map": "IRON",
+    "team_1": "Biscotti's Bros",
+    "team_2": "Cap 22s",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=931844\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=931855\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-09-19",
+    "map": "Hurricane",
+    "team_1": "Steven Seagal",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=941986\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=941991\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-09-19",
+    "map": "Hurricane",
+    "team_1": "The Flag Bearers",
+    "team_2": "Cap 22s",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=941994\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=942005\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2016-09-19",
+    "map": "Hurricane",
+    "team_1": "Block Party",
+    "team_2": "Biscotti's Bros",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=941965\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=941975\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-09-26",
+    "map": "SuperDuperStamp",
+    "team_1": "Cap 22s",
+    "team_2": "The BallBusters",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=952993\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=953001\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-09-26",
+    "map": "SuperDuperStamp",
+    "team_1": "Block Party",
+    "team_2": "Steven Seagal",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=953016\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2016-09-26",
+    "map": "SuperDuperStamp",
+    "team_1": "Biscotti's Bros",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=953034\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=953038\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-10-03",
+    "map": "Pilot",
+    "team_1": "Cap 22s",
+    "team_2": "Block Party",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=975263\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=975274\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-10-03",
+    "map": "Pilot",
+    "team_1": "The BallBusters",
+    "team_2": "The Flag Bearers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=964442\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=964448\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2016-10-03",
+    "map": "Pilot",
+    "team_1": "Steven Seagal",
+    "team_2": "Biscotti's Bros",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=964456\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=964469\"]}}"
+}]

@@ -1,0 +1,206 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-10-09",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Celtag Vigo",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1613989\"],\"Half 2\":[\"https:\/\/pastebin.com\/02jVcnAk\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1614025\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1614039\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-10-09",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Ballmere City",
+    "team_2": "FC Capoli",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1613986\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1614003\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1614023\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1614038\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-10-09",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Momentum",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1614058\"],\"Half 2\":[\"https:\/\/pastebin.com\/3A8WAcs1\",\"https:\/\/tagpro.eu\/?match=1614080\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1614095\"],\"Half 2\":[\"https:\/\/pastebin.com\/QRaFb7RX\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-10-09",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "The Rickrollers",
+    "team_2": "Chaseterfield FC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1614052\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1614077\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1614096\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1614116\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-10-16",
+    "map": "",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1623172\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1623199\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1623216\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1623232\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-10-16",
+    "map": "",
+    "team_1": "Ballmere City",
+    "team_2": "Chaseterfield FC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/2mE6fzBZ\"],\"Half 2\":[\"https:\/\/pastebin.com\/eWnePNzn\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/bHVysn6B\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1623140\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-10-16",
+    "map": "",
+    "team_1": "Momentum",
+    "team_2": "The Rickrollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1623179\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1623204\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1623223\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1623237\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-10-16",
+    "map": "",
+    "team_1": "FC Capoli",
+    "team_2": "Celtag Vigo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1623194\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1623214\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1623228\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1623241\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-10-23",
+    "map": "",
+    "team_1": "Celtag Vigo",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631927\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631947\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631967\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631987\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-10-23",
+    "map": "",
+    "team_1": "FC Capoli",
+    "team_2": "Chaseterfield FC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631850\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631871\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631892\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631912\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-10-23",
+    "map": "",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "The Rickrollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631931\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631956\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631976\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631994\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-10-23",
+    "map": "",
+    "team_1": "Ballmere City",
+    "team_2": "Momentum",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631837\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631864\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1631886\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1631907\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-10-30",
+    "map": "",
+    "team_1": "Blocka Juniors",
+    "team_2": "The Rickrollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1644739\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644770\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1644837\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644860\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-10-30",
+    "map": "",
+    "team_1": "FC Capoli",
+    "team_2": "Momentum",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1644629\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644652\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1644707\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644726\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-10-30",
+    "map": "",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Ballmere City",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1644742\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644800\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1644850\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644871\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-10-30",
+    "map": "",
+    "team_1": "Chaseterfield FC",
+    "team_2": "Celtag Vigo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1644734\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644744\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/JqCKf9xT\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1644851\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-11-06",
+    "map": "Wormy &amp; Market",
+    "team_1": "Celtag Vigo",
+    "team_2": "The Rickrollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1655218\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1655232\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1655248\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1655261\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-11-06",
+    "map": "Wormy &amp; Market",
+    "team_1": "Chaseterfield FC",
+    "team_2": "Momentum",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1655280\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1655298\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1655318\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1655344\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-11-06",
+    "map": "Wormy &amp; Market",
+    "team_1": "Blocka Juniors",
+    "team_2": "Ballmere City",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1655300\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1655315\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1655336\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1655350\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-11-06",
+    "map": "Wormy &amp; Market",
+    "team_1": "FC Capoli",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"tagpro.eu\/?match=1655289\"],\"Half 2\":[\"tagpro.eu\/?match=1655306\"]},\"Game 2\":{\"Half 1\":[\"tagpro.eu\/?match=1655323\"],\"Half 2\":[\"tagpro.eu\/?match=1655346\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-11-13",
+    "map": "",
+    "team_1": "The Rickrollers",
+    "team_2": "Ballmere City",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664554\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1664572\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664593\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1664617\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-11-13",
+    "map": "",
+    "team_1": "Chaseterfield FC",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664549\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1664569\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664588\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1664611\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-11-13",
+    "map": "",
+    "team_1": "Blocka Juniors",
+    "team_2": "FC Capoli",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664547\"],\"Half 2\":[\"https:\/\/pastebin.com\/iXixXRih\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664582\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1664602\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-11-13",
+    "map": "",
+    "team_1": "Momentum",
+    "team_2": "Celtag Vigo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664548\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1664568\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1664587\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1664612\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-11-20",
+    "map": "Community Map &amp; EMERALD",
+    "team_1": "Celtag Vigo",
+    "team_2": "Ballmere City",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/Re9mi6rB\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674275\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1674295\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674316\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-11-20",
+    "map": "Community Map &amp; EMERALD",
+    "team_1": "Momentum",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1674248\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674270\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1674289\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674308\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-11-20",
+    "map": "Community Map &amp; EMERALD",
+    "team_1": "The Rickrollers",
+    "team_2": "FC Capoli",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1674261\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674287\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1674309\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674334\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-11-20",
+    "map": "Community Map &amp; EMERALD",
+    "team_1": "Chaseterfield FC",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1674265\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674288\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1674311\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1674329\"]}}"
+}]

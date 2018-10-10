@@ -1,0 +1,220 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-10-03",
+    "map": "Transilio &amp; EMERALD",
+    "team_1": "The Invinciballs",
+    "team_2": "Ballway United",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1606320\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1606341\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1606363\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1606386\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-10-03",
+    "map": "Transilio &amp; EMERALD",
+    "team_1": "Ballton Wanderers",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1606311\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1606339\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1606358\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1606382\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-10-03",
+    "map": "Transilio &amp; EMERALD",
+    "team_1": "Graberdeen TC",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1606312\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1606334\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/iypxB7ba\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1606378\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-10-10",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "FC Jukerecht",
+    "team_2": "The Invinciballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1615394\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1615414\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1624560\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1624580\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-10-10",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Ballway United",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1615390\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1615408\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1615426\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1615450\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-10-17",
+    "map": "Pilot &amp; Cedar",
+    "team_1": "The Invinciballs",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1624457\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1624478\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1624502\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1624529\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-10-17",
+    "map": "Pilot &amp; Cedar",
+    "team_1": "FC Jukerecht",
+    "team_2": "Graberdeen TC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1624459\"],\"Half 2\":[\"https:\/\/pastebin.com\/PyUmnPF7\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1624486\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1624505\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-10-17",
+    "map": "Pilot &amp; Cedar",
+    "team_1": "Ballway United",
+    "team_2": "Ballton Wanderers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1624458\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1624476\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1624491\"],\"Half 2\":[\"https:\/\/pastebin.com\/0AKh5cp4\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-10-10",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Ballton Wanderers",
+    "team_2": "Graberdeen TC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/C71FvKKz\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1615407\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1615425\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1615447\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-10-24",
+    "map": "Cedar &amp; Rush",
+    "team_1": "Graberdeen TC",
+    "team_2": "The Invinciballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/9Jge3a4N\"],\"Half 2\":[\"https:\/\/pastebin.com\/xX5CH4Kd\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1633292\"],\"Half 2\":[\"https:\/\/pastebin.com\/dJdAXgH7\",\"https:\/\/tagpro.eu\/?match=1633325\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-10-24",
+    "map": "Cedar &amp; Rush",
+    "team_1": "London WASDs",
+    "team_2": "Ballton Wanderers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/jAczjJ1M\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1633271\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1633333\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1633361\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-10-24",
+    "map": "Cedar &amp; Rush",
+    "team_1": "FC Jukerecht",
+    "team_2": "Ballway United",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1633254\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1633267\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1633290\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1633314\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-11-07",
+    "map": "Wormy",
+    "team_1": "FC Jukerecht",
+    "team_2": "Ballton Wanderers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1656423\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1656445\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-10-31",
+    "map": "Rush &amp; Wormy",
+    "team_1": "The Invinciballs",
+    "team_2": "Ballton Wanderers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/3WMzrRth\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1647036\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1647107\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1647192\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-10-31",
+    "map": "Rush &amp; Wormy",
+    "team_1": "Graberdeen TC",
+    "team_2": "Ballway United",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1646971\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1647043\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1647104\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1647181\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-10-31",
+    "map": "Rush &amp; Wormy",
+    "team_1": "London WASDs",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1646951\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1647018\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1647078\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1647138\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-11-07",
+    "map": "Wormy",
+    "team_1": "Ballway United",
+    "team_2": "The Invinciballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1656443\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1656459\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-11-07",
+    "map": "Wormy",
+    "team_1": "London WASDs",
+    "team_2": "Graberdeen TC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1656424\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1656441\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2017-11-21",
+    "map": "Bigmouth",
+    "team_1": "Ballway United",
+    "team_2": "Graberdeen TC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1675447\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1675458\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-11-14",
+    "map": "Bigmouth",
+    "team_1": "Ballway United",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1666030\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1666056\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-11-14",
+    "map": "Bigmouth",
+    "team_1": "Ballton Wanderers",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/EZXqTLCm\"],\"Half 2\":[\"https:\/\/pastebin.com\/r2BQMqkA\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-11-14",
+    "map": "Bigmouth",
+    "team_1": "The Invinciballs",
+    "team_2": "Graberdeen TC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1666037\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1666062\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-07-11",
+    "map": "Market",
+    "team_1": "The Invinciballs",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1656498\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1656522\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-07-11",
+    "map": "Market",
+    "team_1": "London WASDs",
+    "team_2": "Ballway United",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1656487\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1656511\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-07-11",
+    "map": "Market",
+    "team_1": "Graberdeen TC",
+    "team_2": "Ballton Wanderers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1656467\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1656485\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2017-11-21",
+    "map": "Bigmouth",
+    "team_1": "FC Jukerecht",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/paqgh0wb\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1675467\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2017-11-21",
+    "map": "Bigmouth",
+    "team_1": "Ballton Wanderers",
+    "team_2": "The Invinciballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1675462\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1675470\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-11-14",
+    "map": "Market",
+    "team_1": "London WASDs",
+    "team_2": "The Invinciballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1665977\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1666002\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-11-14",
+    "map": "Market",
+    "team_1": "Graberdeen TC",
+    "team_2": "FC Jukerecht",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1665987\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1666008\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-11-14",
+    "map": "Market",
+    "team_1": "Ballton Wanderers",
+    "team_2": "Ballway United",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1665973\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1665999\"]}}"
+}]

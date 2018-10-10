@@ -1,0 +1,206 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-04-16",
+    "map": "Pilot &amp; Scorpio",
+    "team_1": "The Ball Blacks",
+    "team_2": "Tagenham &amp; Rektbridge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349577\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349589\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349618\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349630\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-16",
+    "map": "Pilot &amp; Scorpio",
+    "team_1": "Blocka Juniors",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349621\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349635\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349655\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349684\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-16",
+    "map": "Pilot &amp; Scorpio",
+    "team_1": "Hammerball IF",
+    "team_2": "Skrub Brugge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349564\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349579\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349593\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349607\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-16",
+    "map": "Pilot &amp; Scorpio",
+    "team_1": "Poppenham Hotspur",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349574\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349591\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1349609\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1349623\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-23",
+    "map": "Scorpio &amp; Market",
+    "team_1": "Tagenham &amp; Rektbridge",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362313\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362331\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362358\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362379\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-23",
+    "map": "Scorpio &amp; Market",
+    "team_1": "Skrub Brugge",
+    "team_2": "Poppenham Hotspur",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362312\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362330\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362353\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362375\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-23",
+    "map": "Scorpio &amp; Market",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Hammerball IF",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362314\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362338\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362359\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362382\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-23",
+    "map": "Scorpio &amp; Market",
+    "team_1": "The Ball Blacks",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362321\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362349\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1362371\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1362399\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-30",
+    "map": "Market &amp; Community Map",
+    "team_1": "Blocka Juniors",
+    "team_2": "Tagenham &amp; Rektbridge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1374658\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1374683\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1374704\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1374725\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-30",
+    "map": "Market &amp; Community Map",
+    "team_1": "Hammerball IF",
+    "team_2": "The Ball Blacks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378546\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378564\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378593\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378615\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-30",
+    "map": "Market &amp; Community Map",
+    "team_1": "Poppenham Hotspur",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1374775\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1374801\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1374830\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1374860\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-30",
+    "map": "Market &amp; Community Map",
+    "team_1": "Roll Madrid",
+    "team_2": "Skrub Brugge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1374661\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1374686\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1374715\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1374741\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-14",
+    "map": "Community Map &amp; Transillo",
+    "team_1": "Tagenham &amp; Rektbridge",
+    "team_2": "Skrub Brugge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400118\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400145\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400174\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400197\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-14",
+    "map": "Community Map &amp; Transillo",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400116\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400148\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400181\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400203\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-14",
+    "map": "Community Map &amp; Transillo",
+    "team_1": "The Ball Blacks",
+    "team_2": "Poppenham Hotspur",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400122\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400155\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400192\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400219\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-14",
+    "map": "Community Map &amp; Transillo",
+    "team_1": "Blocka Juniors",
+    "team_2": "Hammerball IF",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400127\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400151\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400188\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400226\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-21",
+    "map": "Transillo &amp; Tehuitzingo",
+    "team_1": "Hammerball IF",
+    "team_2": "Tagenham &amp; Rektbridge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414514\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1414537\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414556\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1414574\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-21",
+    "map": "Transillo &amp; Tehuitzingo",
+    "team_1": "Poppenham Hotspur",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414502\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1414533\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414549\"],\"Half 2\":[\"https:\/\/pastebin.com\/h0waXkcW\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-21",
+    "map": "Transillo &amp; Tehuitzingo",
+    "team_1": "Roll Madrid",
+    "team_2": "The Ball Blacks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414528\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1414548\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414580\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1414643\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-21",
+    "map": "Transillo &amp; Tehuitzingo",
+    "team_1": "Skrub Brugge",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414539\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1414555\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1414581\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1414640\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-28",
+    "map": "Tehuitzingo &amp; EMERALD",
+    "team_1": "Tagenham &amp; Rektbridge",
+    "team_2": "Stand-On-Re de Li\u00e8ge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426793\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426810\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426830\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426849\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-28",
+    "map": "Tehuitzingo &amp; EMERALD",
+    "team_1": "The Ball Blacks",
+    "team_2": "Skrub Brugge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426800\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426820\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426840\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426860\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-28",
+    "map": "Tehuitzingo &amp; EMERALD",
+    "team_1": "Blocka Juniors",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426910\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426928\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426949\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426967\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-28",
+    "map": "Tehuitzingo &amp; EMERALD",
+    "team_1": "Hammerball IF",
+    "team_2": "Poppenham Hotspur",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426803\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426824\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1426841\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1426858\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-06-04",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Poppenham Hotspur",
+    "team_2": "Tagenham &amp; Rektbridge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1438164\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1438185\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1438205\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1438226\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-06-04",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Roll Madrid",
+    "team_2": "Hammerball IF",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1438225\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1438239\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1438258\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1438277\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-06-04",
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Skrub Brugge",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1438145\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1438159\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1438177\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1438194\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "EMERALD &amp; Pilot",
+    "team_1": "Stand-On-Re de Li\u00e8ge",
+    "team_2": "The Ball Blacks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/zdznbKc7\"],\"Half 2\":[\"https:\/\/pastebin.com\/5n1Q2X7v\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/Xhj6qUNW\"],\"Half 2\":[\"https:\/\/pastebin.com\/iwVL1vzg\"]}}"
+}]

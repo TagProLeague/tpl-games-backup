@@ -1,0 +1,1480 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Funketown",
+    "team_2": "Rekt Angles",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527202\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527218\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527310\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527340\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527222\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527251\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527176\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527197\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "CircleJukers",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/PLzfmf5h\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/GPTcBv5Y\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "TC Jukes",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527224\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527255\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Clocks n Blocks",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527171\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527192\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Needful Pings",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527211\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527239\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "CREAM",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527364\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527393\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "The Pointless Warriors",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527358\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/xZaCPqHT\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "",
+    "team_1": "Funketown",
+    "team_2": "Rekt Angles",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527247\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527279\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527369\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527405\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527213\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527238\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "CircleJukers",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/bdN7dEG2\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/cbf4YweN\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "TC Jukes",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527328\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527328\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Clocks n Blocks",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527209\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527236\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Needful Pings",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527275\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527302\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "CREAM",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527415\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527435\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "The Pointless Warriors",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527417\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527439\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "Funketown",
+    "team_2": "Rekt Angles",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527311\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527342\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527414\",\"https:\/\/tagpro.eu\/?match=1527429\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527452\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527348\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527377\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527271\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527306\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "CircleJukers",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/BkPx4H06\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/7kVdWtfF\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "TC Jukes",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527349\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527378\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "Clocks n Blocks",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527272\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527304\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "Needful Pings",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527333\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527353\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "CREAM",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527455\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527468\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Long Island",
+    "team_1": "The Pointless Warriors",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527460\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527476\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536319\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536342\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Rekt Angles",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536286\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536309\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Funketown",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536314\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536337\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Newark Red Balls",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536360\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536382\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "CircleJukers",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536350\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536376\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "The Capaliers",
+    "team_2": "Needful Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/H0trg2PM\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/iE4pcSXi\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "TC Jukes",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536271\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536329\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Handoff Gods",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536275\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536298\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "The Land Before Timers",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536495\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536513\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "The Pointless Warriors",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536416\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536437\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536367\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536386\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Rekt Angles",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536331\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536352\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Funketown",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536363\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536385\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Newark Red Balls",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536408\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536432\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "CircleJukers",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536402\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536424\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "The Capaliers",
+    "team_2": "Needful Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/7uEUYjyb\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/Sivh6mS1\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "TC Jukes",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536300\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536349\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Handoff Gods",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536322\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536347\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "The Land Before Timers",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536527\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536540\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Rush",
+    "team_1": "The Pointless Warriors",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536460\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536486\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536412\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536433\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "Rekt Angles",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536380\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536406\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "Funketown",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536409\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536430\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "Newark Red Balls",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536455\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536480\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "CircleJukers",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536449\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536477\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "The Capaliers",
+    "team_2": "Needful Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/NyZq6Hvv\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/LucDYrwW\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "TC Jukes",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536383\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536407\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "Handoff Gods",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536373\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536395\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "The Land Before Timers",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536558\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536578\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Vardo",
+    "team_1": "The Pointless Warriors",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536506\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1536522\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Pilot",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527284\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1527322\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Funketown",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/42UBiMev\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545458\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Rekt Angles",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545390\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545415\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Needful Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/8bCKaGYN\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545469\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Newark Red Balls",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545441\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545462\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Whitecaps",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545439\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545461\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545387\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545412\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "CREAM",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545477\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545497\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "The Empire Snipes Back",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545479\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545500\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "The Land Before Timers",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/WMKzznDj\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/W96kSqdk\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Rush",
+    "team_1": "The Pointless Warriors",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545489\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545509\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Funketown",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545475\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545499\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Rekt Angles",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545435\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545456\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Needful Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545496\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545517\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Newark Red Balls",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545481\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545501\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Whitecaps",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545480\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545504\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545430\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545448\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "CREAM",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545515\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545541\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "The Empire Snipes Back",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545520\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545548\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "The Land Before Timers",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/YQv5xDfP\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/B30354t6\"]}}"
+}, {
+    "week_num": "8",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "The Pointless Warriors",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545532\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545555\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "Funketown",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545516\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545535\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "Rekt Angles",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545472\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545492\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "Needful Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545536\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545561\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "Newark Red Balls",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545518\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545537\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "Whitecaps",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545522\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545546\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545471\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "CREAM",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545560\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545579\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "The Empire Snipes Back",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545570\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545582\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "The Land Before Timers",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/FsjJzh2V\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/chN7b7N2\"]}}"
+}, {
+    "week_num": "9",
+    "date": null,
+    "map": "Reflex2",
+    "team_1": "The Pointless Warriors",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545572\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545585\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Funketown",
+    "team_2": "Have Mad Cow Disease",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563981\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563999\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Rekt Angles",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563947\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1563956\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563977\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Whitecaps",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/raw\/vbBGBuVy\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/raw\/pqXDLkew\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563963\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563980\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "reCAPTCHA",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563934\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563957\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563948\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563973\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Ball or Nothing",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564096\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564119\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Clocks n Blocks",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563971\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563992\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Pi-Curious",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564024\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564046\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Funketown",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554616\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554632\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Rekt Angles",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554561\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554532\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/xBaZYE3Z\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554589\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Newark Red Balls",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554550\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554579\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "The Capaliers",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554465\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554493\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "CircleJukers",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554423\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554448\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Pi-Curious",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554410\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554434\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Needful Pings",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554451\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554482\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Ball or Nothing",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554419\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554446\"]}}"
+}, {
+    "week_num": "10",
+    "date": null,
+    "map": "Transilio",
+    "team_1": "Clocks n Blocks",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554428\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554458\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Funketown",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554616\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554632\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Rekt Angles",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554592\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554605\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554615\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554639\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Newark Red Balls",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554599\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554612\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "The Capaliers",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554522\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554549\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "CircleJukers",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554480\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554511\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Pi-Curious",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554461\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554496\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Needful Pings",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554508\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554531\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Ball or Nothing",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554477\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554509\"]}}"
+}, {
+    "week_num": "11",
+    "date": null,
+    "map": "",
+    "team_1": "Clocks n Blocks",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554487\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554513\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Funketown",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554616\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554632\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Rekt Angles",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554636\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554614\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554660\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554672\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Newark Red Balls",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554633\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554656\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "The Capaliers",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554578\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554597\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "CircleJukers",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554537\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554564\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Pi-Curious",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554526\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554555\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Needful Pings",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554559\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554585\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Ball or Nothing",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554535\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554568\"]}}"
+}, {
+    "week_num": "12",
+    "date": null,
+    "map": "CFB",
+    "team_1": "Clocks n Blocks",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554538\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1554567\"]}}"
+}, {
+    "week_num": "13",
+    "date": null,
+    "map": "Grenadine",
+    "team_1": "Needful Pings",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564000\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564027\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Funketown",
+    "team_2": "Have Mad Cow Disease",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564018\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564044\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Rekt Angles",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563996\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564025\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Whitecaps",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/raw\/FhBKtWBt\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/raw\/HbU1dAXB\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563997\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564017\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "reCAPTCHA",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563978\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1563998\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564036\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564054\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Ball or Nothing",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564096\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564119\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Clocks n Blocks",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564016\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564038\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Pi-Curious",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564062\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564088\"]}}"
+}, {
+    "week_num": "14",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Needful Pings",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564095\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564118\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Funketown",
+    "team_2": "Have Mad Cow Disease",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564063\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564085\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Rekt Angles",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564047\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564066\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Whitecaps",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564064\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564086\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564041\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564057\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "reCAPTCHA",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564021\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564045\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564036\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564054\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Ball or Nothing",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564142\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564154\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Clocks n Blocks",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564058\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564084\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Pi-Curious",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564062\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564088\"]}}"
+}, {
+    "week_num": "15",
+    "date": null,
+    "map": "Blooper",
+    "team_1": "Needful Pings",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564095\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564118\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Funketown",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573419\",\"https:\/\/tagpro.eu\/?match=1573427\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573453\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Rekt Angles",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573430\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573458\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Newark Red Balls",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573435\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573465\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573498\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/rsC3L9Vd\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Whitecaps",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573537\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573563\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573488\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573512\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573472\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573495\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "reCAPTCHA",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573463\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573479\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Pi-Curious",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/3dEhbLgK\",\"https:\/\/tagpro.eu\/?match=1573311\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573338\"]}}"
+}, {
+    "week_num": "16",
+    "date": null,
+    "map": "Scorpio",
+    "team_1": "Needful Pings",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573431\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573460\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Funketown",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573470\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573492\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Rekt Angles",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573476\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573496\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Newark Red Balls",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573481\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573501\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573422\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573454\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Whitecaps",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573582\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573603\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573536\",\"https:\/\/tagpro.eu\/?match=1573552\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573570\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573524\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573548\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "reCAPTCHA",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573568\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573590\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Pi-Curious",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573361\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/ayysfK1d\",\"https:\/\/tagpro.eu\/?match=1573394\"]}}"
+}, {
+    "week_num": "17",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Needful Pings",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573477\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/MReNhfYB\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Funketown",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573517\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573542\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Rekt Angles",
+    "team_2": "The Capaliers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573520\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573543\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Newark Red Balls",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573529\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573553\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Have Mad Cow Disease",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573474\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573498\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Whitecaps",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573618\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573634\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573594\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573610\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573569\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573589\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "reCAPTCHA",
+    "team_2": "The Pointless Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573463\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573479\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Pi-Curious",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573425\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573455\"]}}"
+}, {
+    "week_num": "18",
+    "date": null,
+    "map": "Dealer",
+    "team_1": "Needful Pings",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573528\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1573556\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Funketown",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582009\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582030\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Rekt Angles",
+    "team_2": "Have Mad Cow Disease",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581943\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581962\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Whitecaps",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/uZ94c2sM\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/CcXnUneg\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581983\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582000\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "CircleJukers",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1590903\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1590920\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "The Capaliers",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582016\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582034\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Pi-Curious",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581883\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581897\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "Needful Pings",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581950\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581967\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "The Land Before Timers",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582107\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582121\"]}}"
+}, {
+    "week_num": "19",
+    "date": null,
+    "map": "Emerald",
+    "team_1": "The Pointless Warriors",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582116\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582125\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Funketown",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582055\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582065\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Rekt Angles",
+    "team_2": "Have Mad Cow Disease",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581982\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581999\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Whitecaps",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/ChmenjMN\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/H1tGJKuq\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582020\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582042\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "CircleJukers",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1590937\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1590949\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "The Capaliers",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582056\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582070\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Pi-Curious",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581909\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581932\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "Needful Pings",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581980\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581996\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "The Land Before Timers",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582137\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582155\"]}}"
+}, {
+    "week_num": "20",
+    "date": null,
+    "map": "Cedar",
+    "team_1": "The Pointless Warriors",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582143\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582159\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "Funketown",
+    "team_2": "Newark Red Balls",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582082\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582091\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "Rekt Angles",
+    "team_2": "Have Mad Cow Disease",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582022\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582047\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "Whitecaps",
+    "team_2": "reCAPTCHA",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/QSEur1Bp\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/xDvFsT3L\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582059\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582073\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "CircleJukers",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1590964\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1590978\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "The Capaliers",
+    "team_2": "Handoff Gods",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582087\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582096\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "Pi-Curious",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581957\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1581975\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "Needful Pings",
+    "team_2": "Clocks n Blocks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582025\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582049\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "The Land Before Timers",
+    "team_2": "CREAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582164\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582174\"]}}"
+}, {
+    "week_num": "21",
+    "date": null,
+    "map": "Mephisto",
+    "team_1": "The Pointless Warriors",
+    "team_2": "The Empire Snipes Back",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582167\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1582179\"]}}"
+}]

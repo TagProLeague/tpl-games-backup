@@ -1,0 +1,353 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Tehuitzingo",
+    "team_1": "He Hate Re",
+    "team_2": "Black Flag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951741\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951751\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951761\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951774\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Tehuitzingo",
+    "team_1": "The Tagtime Theatre",
+    "team_2": "WCYDinos",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951697\"],\"Half 2\":[\"https:\/\/pastebin.com\/jLj4HrxK\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951719\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951729\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Tehuitzingo",
+    "team_1": "The Night's Watch",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1952687\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1952697\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/rssPsv9q\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1952718\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Tehuitzingo",
+    "team_1": "CircleJukers",
+    "team_2": "Preventure Time",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951763\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951772\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951743\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951753\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Tehuitzingo",
+    "team_1": "Pursuit of Cappiness",
+    "team_2": "Chicago pubs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951724\"],\"Half 2\":[\"https:\/\/pastebin.com\/V3fy54rp\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/RtS9U2i1\"],\"Half 2\":[\"https:\/\/pastebin.com\/eygmte6x\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Tehuitzingo",
+    "team_1": "Ballsagna",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951733\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951739\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951752\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951764\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1951768\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Tehuitzingo",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Tampa Bay Aightping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951732\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951740\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951754\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951762\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Tehuitzingo \/\/ Jardim",
+    "team_1": "Tampa Bay Aightping",
+    "team_2": "The Night's Watch",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957917\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957936\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957953\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957967\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Tehuitzingo \/\/ Jardim",
+    "team_1": "WCYDinos",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957836\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957851\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957867\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957874\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Tehuitzingo \/\/ Jardim",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Ballsagna",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957895\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957908\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957930\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957948\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Tehuitzingo \/\/ Jardim",
+    "team_1": "The Land Before Timers",
+    "team_2": "Preventure Time",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957894\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957911\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957928\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957945\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1957949\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Tehuitzingo \/\/ Jardim",
+    "team_1": "Chicago pubs",
+    "team_2": "CircleJukers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957865\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957872\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957885\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957901\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Tehuitzingo \/\/ Jardim",
+    "team_1": "Pursuit of Cappiness",
+    "team_2": "Black Flag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957882\"],\"Half 2\":[\"https:\/\/pastebin.com\/5754QFD1\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957923\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957938\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1957941\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Tehuitzingo \/\/ Jardim",
+    "team_1": "The Tagtime Theatre",
+    "team_2": "He Hate Re",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957875\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957880\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957898\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957914\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Transilio",
+    "team_1": "Ballsagna",
+    "team_2": "Black Flag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963431\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963443\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963458\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963470\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Transilio",
+    "team_1": "ProBots",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963368\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963381\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963390\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963404\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Transilio",
+    "team_1": "CircleJukers",
+    "team_2": "WCYDinos",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963375\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963386\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963403\"],\"Half 2\":[\"https:\/\/pastebin.com\/L2KAVS6X\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Transilio",
+    "team_1": "The Night's Watch",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963432\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963448\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963462\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963477\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Transilio",
+    "team_1": "Preventure Time",
+    "team_2": "Tampa Bay Aightping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963424\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963435\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963449\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963463\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Transilio",
+    "team_1": "He Hate Re",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963433\"],\"Half 2\":[\"https:\/\/pastebin.com\/LZxCn9uX\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963460\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963472\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Transilio",
+    "team_1": "The Tagtime Theatre",
+    "team_2": "Chicago pubs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963428\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963440\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963455\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963467\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Transilio \/\/ Market",
+    "team_1": "CircleJukers",
+    "team_2": "The Tagtime Theatre",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969107\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969121\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969134\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969146\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Transilio \/\/ Market",
+    "team_1": "He Hate Re",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969142\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969162\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969172\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969184\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Transilio \/\/ Market",
+    "team_1": "Ballsagna",
+    "team_2": "Preventure Time",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969140\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969159\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969176\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969188\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Transilio \/\/ Market",
+    "team_1": "Black Flag",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969228\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969244\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969256\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969269\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Transilio \/\/ Market",
+    "team_1": "The Night's Watch",
+    "team_2": "WCYDinos",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969138\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969153\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1969154\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969167\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969181\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Transilio \/\/ Market",
+    "team_1": "Tampa Bay Aightping",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969103\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969118\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1969122\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969132\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969149\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Transilio \/\/ Market",
+    "team_1": "ProBots",
+    "team_2": "Chicago pubs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969902\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969915\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1969930\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969948\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Market \/\/ Atomic",
+    "team_1": "CircleJukers",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975919\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975931\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975942\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975952\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Market \/\/ Atomic",
+    "team_1": "The Land Before Timers",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/MsSWZrQ2\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975221\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975234\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975246\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Market \/\/ Atomic",
+    "team_1": "Chicago pubs",
+    "team_2": "WCYDinos",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975154\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975172\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975185\"],\"Half 2\":[\"https:\/\/pastebin.com\/nhJbrxWg\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Market \/\/ Atomic",
+    "team_1": "Tampa Bay Aightping",
+    "team_2": "Ballsagna",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975191\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975202\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975209\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975219\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Market \/\/ Atomic",
+    "team_1": "Preventure Time",
+    "team_2": "Black Flag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975208\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975217\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975232\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975242\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Market \/\/ Atomic",
+    "team_1": "The Tagtime Theatre",
+    "team_2": "The Night's Watch",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975200\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975206\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975216\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975225\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Market \/\/ Atomic",
+    "team_1": "Pursuit of Cappiness",
+    "team_2": "He Hate Re",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975156\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975167\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975183\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975192\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-09-25",
+    "map": "Atomic \/\/ Rush",
+    "team_1": "WCYDinos",
+    "team_2": "Ballsagna",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980437\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980446\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980458\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980467\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-09-25",
+    "map": "Atomic \/\/ Rush",
+    "team_1": "Preventure Time",
+    "team_2": "He Hate Re",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980462\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980471\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980481\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980497\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-09-25",
+    "map": "Atomic \/\/ Rush",
+    "team_1": "Black Flag",
+    "team_2": "ProBots",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980487\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980507\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980525\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980545\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-09-25",
+    "map": "Atomic \/\/ Rush",
+    "team_1": "Pursuit of Cappiness",
+    "team_2": "The Night's Watch",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980484\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980499\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980513\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980531\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-09-25",
+    "map": "Atomic \/\/ Rush",
+    "team_1": "CircleJukers",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980455\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980465\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980473\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980486\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-09-25",
+    "map": "Atomic \/\/ Rush",
+    "team_1": "The Land Before Timers",
+    "team_2": "Chicago pubs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980521\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980537\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980558\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980572\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2018-09-25",
+    "map": "Atomic \/\/ Rush",
+    "team_1": "Tampa Bay Aightping",
+    "team_2": "The Tagtime Theatre",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980439\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980451\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1980461\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1980468\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-10-02",
+    "map": "Rush \/\/ EMERALD",
+    "team_1": "Ballsagna",
+    "team_2": "The Land Before Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985839\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985853\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1985860\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985876\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985889\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-10-02",
+    "map": "Rush \/\/ EMERALD",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Chicago pubs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985790\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985812\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985828\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985844\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-10-02",
+    "map": "Rush \/\/ EMERALD",
+    "team_1": "ProBots",
+    "team_2": "The Tagtime Theatre",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985786\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985803\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985824\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985840\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-10-02",
+    "map": "Rush \/\/ EMERALD",
+    "team_1": "Black Flag",
+    "team_2": "The Night's Watch",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/N8MDBY4x\"],\"Half 2\":[\"https:\/\/pastebin.com\/TNbb8g7v\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/Z6Q7GZZC\"],\"Half 2\":[\"https:\/\/pastebin.com\/GNfSMCJW\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-10-02",
+    "map": "Rush \/\/ EMERALD",
+    "team_1": "CircleJukers",
+    "team_2": "Tampa Bay Aightping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985791\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985807\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985827\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985842\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-10-02",
+    "map": "Rush \/\/ EMERALD",
+    "team_1": "He Hate Re",
+    "team_2": "WCYDinos",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985762\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985778\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985788\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985810\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2018-10-02",
+    "map": "Rush \/\/ EMERALD",
+    "team_1": "Preventure Time",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/MK4PSsQ4\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985782\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1985794\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1985819\"]}}"
+}]

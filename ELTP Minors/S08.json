@@ -1,0 +1,206 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2016-10-31",
+    "map": "Pilot &amp; Market",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1023167\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1023200\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1023227\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1023255\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-11-01",
+    "map": "Pilot &amp; Market",
+    "team_1": "Ajux Danksterdam",
+    "team_2": "The Mumble Bees",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1026161\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1026188\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1026206\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1026221\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-10-31",
+    "map": "Pilot &amp; Market",
+    "team_1": "Hidejuke Split",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1023172\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1023203\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/6JhdLzfq\",\"http:\/\/tagpro.eu\/?match=1023241\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1023271\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-07",
+    "map": "Market &amp; Transilio",
+    "team_1": "Ajux Danksterdam",
+    "team_2": "Hidejuke Split",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1037076\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1037094\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/jKCqP0Jk\"],\"Half 2\":[\"http:\/\/pastebin.com\/LWL1yZkP\",\"https:\/\/tagpro.eu\/?match=1037165\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-07",
+    "map": "Market &amp; Transilio",
+    "team_1": "London WASDs",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1037082\"],\"Half 2\":[\"http:\/\/pastebin.com\/xYtY2Ngr\",\"https:\/\/tagpro.eu\/?match=1037103\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1037132\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1037152\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-07",
+    "map": "Market &amp; Transilio",
+    "team_1": "The Mumble Bees",
+    "team_2": "Boostin Dynamo EU",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1037073\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1037093\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1037116\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1037136\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-07",
+    "map": "Market &amp; Transilio",
+    "team_1": "FK Pelistag",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1038852\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1038874\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1038905\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1038949\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-10-31",
+    "map": "Pilot &amp; Market",
+    "team_1": "FK Pelistag",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=1023161\"],\"Half 2\":[\"http:\/\/pastebin.com\/DASm9g1A\",\"http:\/\/tagpro.eu\/?match=1023222\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/PBy771ci\",\"http:\/\/tagpro.eu\/?match=1023253\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=1023302\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-11-14",
+    "map": "Transilio &amp; Atomic",
+    "team_1": "Hidejuke Split",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049579\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049607\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049641\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049672\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-11-14",
+    "map": "Transilio &amp; Atomic",
+    "team_1": "Ajux Danksterdam",
+    "team_2": "Boostin Dynamo EU",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049588\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049624\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049660\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049694\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-11-14",
+    "map": "Transilio &amp; Atomic",
+    "team_1": "London WASDs",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049615\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049669\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049696\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049731\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-11-14",
+    "map": "Transilio &amp; Atomic",
+    "team_1": "The Mumble Bees",
+    "team_2": "FK Pelistag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049587\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049618\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1049655\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1049682\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-11-21",
+    "map": "Atomic &amp; IRON",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "Hidejuke Split",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1063560\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1063596\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1063632\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1063668\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-11-21",
+    "map": "Atomic &amp; IRON",
+    "team_1": "Blocka Juniors",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1063568\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1063602\",\"http:\/\/pastebin.com\/sKaGYmzB\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/Q8L3xCYj\",\"https:\/\/tagpro.eu\/?match=1063645\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1063693\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-11-21",
+    "map": "Atomic &amp; IRON",
+    "team_1": "London WASDs",
+    "team_2": "The Mumble Bees",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1063435\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1063462\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1063488\"],\"Half 2\":[\"http:\/\/pastebin.com\/9TEAE02E\",\"https:\/\/tagpro.eu\/?match=1063530\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-11-28",
+    "map": "IRON &amp; Rush",
+    "team_1": "Hidejuke Split",
+    "team_2": "Roll Madrid",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1076594\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1076621\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1076656\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1076704\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-11-28",
+    "map": "IRON &amp; Rush",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "FK Pelistag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1080737\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1080767\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1080791\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1080808\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-11-28",
+    "map": "IRON &amp; Rush",
+    "team_1": "Blocka Juniors",
+    "team_2": "The Mumble Bees",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/hyfK7SDe\",\"https:\/\/tagpro.eu\/?match=1076547\"],\"Half 2\":[\"http:\/\/pastebin.com\/kLvjv4vs\",\"https:\/\/tagpro.eu\/?match=1076572\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1076599\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1076624\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-11-28",
+    "map": "IRON &amp; Rush",
+    "team_1": "Ajux Danksterdam",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1076544\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1076563\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1076588\"],\"Half 2\":[\"http:\/\/pastebin.com\/bBRdrRJx\",\"https:\/\/tagpro.eu\/?match=1076615\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-12-05",
+    "map": "Rush &amp; Community Map",
+    "team_1": "FK Pelistag",
+    "team_2": "Hidejuke Split",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1092645\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092669\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1092692\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092723\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-12-05",
+    "map": "Rush &amp; Community Map",
+    "team_1": "Roll Madrid",
+    "team_2": "The Mumble Bees",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1092636\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092662\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1092688\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092724\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-12-05",
+    "map": "Rush &amp; Community Map",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/Wu0uKCAR\",\"https:\/\/tagpro.eu\/?match=1092569\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092597\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/LcKyzyHA\",\"https:\/\/tagpro.eu\/?match=1092651\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092678\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-12-05",
+    "map": "Rush &amp; Community Map",
+    "team_1": "Blocka Juniors",
+    "team_2": "Ajux Danksterdam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1092563\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092583\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1092614\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1092642\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-12-12",
+    "map": "Community Map &amp; Pilot",
+    "team_1": "Hidejuke Split",
+    "team_2": "The Mumble Bees",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1107039\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1107058\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1107080\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1107108\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-12-12",
+    "map": "Community Map &amp; Pilot",
+    "team_1": "FK Pelistag",
+    "team_2": "London WASDs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1107042\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1107061\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1107083\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1107116\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-12-12",
+    "map": "Community Map &amp; Pilot",
+    "team_1": "Roll Madrid",
+    "team_2": "Ajux Danksterdam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105118\"],\"Half 2\":[\"http:\/\/pastebin.com\/AtYK0uUy\",\"https:\/\/tagpro.eu\/?match=1105158\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105187\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105223\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-12-12",
+    "map": "Community Map &amp; Pilot",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "Blocka Juniors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/3eWcRU4N\",\"https:\/\/tagpro.eu\/?match=1107048\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1107066\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1107096\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1107125\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Atomic &amp; IRON",
+    "team_1": "Ajux Danksterdam",
+    "team_2": "FK Pelistag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1063544\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1063572\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1063600\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1063634\"]}}"
+}]

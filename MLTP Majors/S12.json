@@ -1,0 +1,304 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-04-02",
+    "map": "Pilot \/ Rush",
+    "team_1": "ThunderCaps",
+    "team_2": "Liberty Caps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324733\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324750\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324773\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324816\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-02",
+    "map": "Pilot \/ Rush",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Orlando Roller Bears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324520\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324538\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324564\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324586\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-02",
+    "map": "Pilot \/ Rush",
+    "team_1": "Degrees of Freedom",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324676\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324706\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324730\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324751\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-02",
+    "map": "Pilot \/ Rush",
+    "team_1": "The Aristocaps",
+    "team_2": "ALL CAPS",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324571\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324599\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324625\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324640\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-02",
+    "map": "Pilot \/ Rush",
+    "team_1": "Tears For Spheres",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324684\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324709\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1324723\",\"https:\/\/tagpro.eu\/?match=1324735\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324758\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324785\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-02",
+    "map": "Pilot \/ Rush",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1324739\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324757\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/n3K0yYWx\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1324818\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-23",
+    "map": "Cedar \/ Scorpio",
+    "team_1": "Liberty Caps",
+    "team_2": "The Aristocaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363172\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363214\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363239\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363265\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-09",
+    "map": "Rush \/ Cedar",
+    "team_1": "Liberty Caps",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338522\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338548\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338575\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338599\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-09",
+    "map": "Rush \/ Cedar",
+    "team_1": "ThunderCaps",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338534\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338561\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338584\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338606\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-09",
+    "map": "Rush \/ Cedar",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Orlando Roller Bears",
+    "links": "{\"Game 1\":{\"Half 1\":[\" https:\/\/tagpro.eu\/?match=1338478\"],\"Half 2\":[\" https:\/\/tagpro.eu\/?match=1338512\"]},\"Game 2\":{\"Half 1\":[\" https:\/\/tagpro.eu\/?match=1338541\"],\"Half 2\":[\" https:\/\/tagpro.eu\/?match=1338574\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-09",
+    "map": "Rush \/ Cedar",
+    "team_1": "The Aristocaps",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338559\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338583\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338603\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338622\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-09",
+    "map": "Rush \/ Cedar",
+    "team_1": "ALL CAPS",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\" https:\/\/tagpro.eu\/?match=1338564\"],\"Half 2\":[\" https:\/\/tagpro.eu\/?match=1338586\"]},\"Game 2\":{\"Half 1\":[\" https:\/\/tagpro.eu\/?match=1338608\"],\"Half 2\":[\" https:\/\/tagpro.eu\/?match=1338625\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-09",
+    "map": "Rush \/ Cedar",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338518\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338542\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1338557\",\"https:\/\/tagpro.eu\/?match=1338571\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1338596\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1338614\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-23",
+    "map": "Cedar \/ Scorpio",
+    "team_1": "ThunderCaps",
+    "team_2": "ALL CAPS",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363152\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363181\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363210\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363238\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-23",
+    "map": "Cedar \/ Scorpio",
+    "team_1": "MEME*TEAM",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363140\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363162\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363188\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363219\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-23",
+    "map": "Cedar \/ Scorpio",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363257\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363280\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363306\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363330\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-23",
+    "map": "Cedar \/ Scorpio",
+    "team_1": "Orlando Roller Bears",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363161\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363190\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363226\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363252\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-23",
+    "map": "Cedar \/ Scorpio",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363176\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363212\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1363243\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1363270\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-04-30",
+    "map": "Scorpio \/ Transilio",
+    "team_1": "Liberty Caps",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375432\"],\"Half 2\":[\"https:\/\/pastebin.com\/wEqgCgMR\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375480\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375501\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-04-30",
+    "map": "Scorpio \/ Transilio",
+    "team_1": "ThunderCaps",
+    "team_2": "Degrees of Freedom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/9yvMQuMG\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375466\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375488\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375512\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-04-30",
+    "map": "Scorpio \/ Transilio",
+    "team_1": "MEME*TEAM",
+    "team_2": "Orlando Roller Bears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375337\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375364\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375386\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375413\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-04-30",
+    "map": "Scorpio \/ Transilio",
+    "team_1": "The Aristocaps",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375504\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375528\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375563\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375595\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-04-30",
+    "map": "Scorpio \/ Transilio",
+    "team_1": "ALL CAPS",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375387\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375414\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375440\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375456\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-04-30",
+    "map": "Scorpio \/ Transilio",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375494\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375517\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1375548\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1375580\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-07",
+    "map": "Transilio \/ Constriction",
+    "team_1": "Liberty Caps",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388599\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388618\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388645\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388673\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-07",
+    "map": "Transilio \/ Constriction",
+    "team_1": "ThunderCaps",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388720\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388745\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388760\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388783\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-07",
+    "map": "Transilio \/ Constriction",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388657\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388689\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388715\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388740\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-07",
+    "map": "Transilio \/ Constriction",
+    "team_1": "MEME*TEAM",
+    "team_2": "The Aristocaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388583\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388611\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388636\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388662\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-07",
+    "map": "Transilio \/ Constriction",
+    "team_1": "Boostin Dynamo",
+    "team_2": "ALL CAPS",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388546\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388570\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388587\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388609\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-07",
+    "map": "Transilio \/ Constriction",
+    "team_1": "Orlando Roller Bears",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388404\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388435\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1388474\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1388516\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-14",
+    "map": "Constriction \/ EMERALD",
+    "team_1": "Liberty Caps",
+    "team_2": "Degrees of Freedom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1402360\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1402382\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1402406\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1402430\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-14",
+    "map": "Constriction \/ EMERALD",
+    "team_1": "ThunderCaps",
+    "team_2": "Orlando Roller Bears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400754\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400777\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400798\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400821\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-14",
+    "map": "Constriction \/ EMERALD",
+    "team_1": "MEME*TEAM",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400694\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400715\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400737\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400756\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-14",
+    "map": "Constriction \/ EMERALD",
+    "team_1": "The Aristocaps",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400749\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400771\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400792\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400806\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-14",
+    "map": "Constriction \/ EMERALD",
+    "team_1": "ALL CAPS",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400747\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400766\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1400793\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1400809\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-14",
+    "map": "Constriction \/ EMERALD",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1402529\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1402552\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1402578\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1402603\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-21",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Liberty Caps",
+    "team_2": "Orlando Roller Bears",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1417302\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1417330\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1417364\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1417390\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-21",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "ThunderCaps",
+    "team_2": "MEME*TEAM",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415462\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415481\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415512\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415548\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-21",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415463\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415484\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415520\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415554\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-21",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "The Aristocaps",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415514\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415550\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415564\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415584\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-21",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "ALL CAPS",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415460\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415475\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1415498\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1415536\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-21",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1417411\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1417432\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1417461\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1417482\"]}}"
+}]

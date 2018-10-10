@@ -1,0 +1,206 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "",
+    "team_1": "Ballern Munich",
+    "team_2": "Ballis Saint-Germain",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794250\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794273\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794289\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794303\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "",
+    "team_1": "The Ballsheviks",
+    "team_2": "Boostin Dynamo EU",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794254\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794275\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794284\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794295\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "",
+    "team_1": "KFC Winballdon",
+    "team_2": "Rolling BC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794253\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794280\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=794290\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=794302\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-06-13",
+    "map": "",
+    "team_1": "Tagenham and Rektbridge",
+    "team_2": "West Bombwich Albion",
+    "links": "{\n  \"Game 1\": {\n    \"Half 1\": [\n      \"http:\/\/tagpro.eu\/?match=794246\"\n    ],\n    \"Half 2\": [\n      \"http:\/\/tagpro.eu\/?match=794269\"\n    ]\n  },\n  \"Game 2\": {\n    \"Half 1\": [\n      \"http:\/\/tagpro.eu\/?match=794287\",\n      \"http:\/\/pastebin.com\/9GEF5LDT\"\n    ],\n    \"Half 2\": [\n      \"http:\/\/tagpro.eu\/?match=794296\"\n    ]\n  }\n}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "",
+    "team_1": "Ballern Munich",
+    "team_2": "The Ballsheviks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=803700\"],\"Half 2\":[\"http:\/\/pastebin.com\/a89WWZLD\",\"http:\/\/tagpro.eu\/?match=803714\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=803723\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=803727\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "",
+    "team_1": "Ballis Saint-Germain",
+    "team_2": "Boostin Dynamo EU",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=803703\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=803716\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=803725\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=803728\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "",
+    "team_1": "KFC Winballdon",
+    "team_2": "Tagenham and Rektbridge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=803708\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=803719\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=803726\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=803729\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-06-20",
+    "map": "",
+    "team_1": "Rolling BC",
+    "team_2": "West Bombwich Albion",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=805359\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=805392\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/XRCrFWb1\",\"http:\/\/tagpro.eu\/?match=805418\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=805445\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-07-04",
+    "map": "",
+    "team_1": "Ballern Munich",
+    "team_2": "Boostin Dynamo EU",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826490\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=826511\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826529\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=826545\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-07-04",
+    "map": "",
+    "team_1": "Ballis Saint-Germain",
+    "team_2": "The Ballsheviks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826489\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=826513\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826533\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=826547\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-07-04",
+    "map": "",
+    "team_1": "KFC Winballdon",
+    "team_2": "West Bombwich Albion",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826496 \"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=826517\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826561\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=826591\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-07-04",
+    "map": "",
+    "team_1": "Rolling BC",
+    "team_2": "Tagenham and Rektbridge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826481\"],\"Half 2\":[\"http:\/\/pastebin.com\/6imxngQ2\",\"http:\/\/tagpro.eu\/?match=826504\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=826521\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=826535\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "",
+    "team_1": "Ballern Munich",
+    "team_2": "KFC Winballdon",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=836660\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=836696\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=836734\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=836758\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "",
+    "team_1": "Ballis Saint-Germain",
+    "team_2": "Rolling BC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=836654\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=836674\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=836700\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=836717\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "",
+    "team_1": "The Ballsheviks",
+    "team_2": "Tagenham and Rektbridge",
+    "links": "FORFEIT"
+}, {
+    "week_num": "4",
+    "date": "2016-07-11",
+    "map": "",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "West Bombwich Albion",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=836676\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=836711\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=836741\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=836759\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "",
+    "team_1": "Rolling BC",
+    "team_2": "Ballern Munich",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846406\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846428\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846456\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846472\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "",
+    "team_1": "Ballis Saint-Germain",
+    "team_2": "KFC Winballdon",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846395\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846438\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846459\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846482\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "",
+    "team_1": "West Bombwich Albion",
+    "team_2": "The Ballsheviks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/raw\/Hk03LxGV\",\"http:\/\/tagpro.eu\/?match=846405\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846432\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/raw\/TbbCyXRJ\",\"http:\/\/tagpro.eu\/?match=846469\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846487\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-07-18",
+    "map": "",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "Tagenham and Rektbridge",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846394\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846412\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=846436\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=846462\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-08-01",
+    "map": "",
+    "team_1": "Tagenham and Rektbridge",
+    "team_2": "Ballern Munich",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/7MmxaTvF\",\"http:\/\/pastebin.com\/t3wZ38we\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866002\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866025\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866043\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-08-01",
+    "map": "",
+    "team_1": "West Bombwich Albion",
+    "team_2": "Ballis Saint-Germain",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=865977\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866001\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866023\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866044\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-08-01",
+    "map": "",
+    "team_1": "The Ballsheviks",
+    "team_2": "KFC Winballdon",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=865984\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866007\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866030\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866052\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-08-01",
+    "map": "",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "Rolling BC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=865976\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=865998\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=866024\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=866042\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-08",
+    "map": "",
+    "team_1": "West Bombwich Albion",
+    "team_2": "Ballern Munich",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/pastebin.com\/9qEAx0W2\",\"http:\/\/tagpro.eu\/?match=876790\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876802\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/pastebin.com\/TY3P5fpJ\",\"http:\/\/tagpro.eu\/?match=876832\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876853\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-08",
+    "map": "",
+    "team_1": "Tagenham and Rektbridge",
+    "team_2": "Ballis Saint-Germain",
+    "links": "FORFEIT"
+}, {
+    "week_num": "7",
+    "date": "2016-08-08",
+    "map": "",
+    "team_1": "The Ballsheviks",
+    "team_2": "Rolling BC",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=876791\",\"http:\/\/pastebin.com\/0uvFAHDG\",\"http:\/\/pastebin.com\/5WNjCcYX\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876807\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=876829\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876854\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-08-08",
+    "map": "",
+    "team_1": "Boostin Dynamo EU",
+    "team_2": "KFC Winballdon",
+    "links": "{\"Game 1\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=876796\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876817\"]},\"Game 2\":{\"Half 1\":[\"http:\/\/tagpro.eu\/?match=876835\"],\"Half 2\":[\"http:\/\/tagpro.eu\/?match=876855\"]}}"
+}]

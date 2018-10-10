@@ -1,0 +1,577 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "Flairbnb",
+    "team_2": "Boston Pops",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342041\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342054\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342065\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342079\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "Rectal Rangers 3D",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342037\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342051\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342064\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342078\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "Ball or Nothing",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342007\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342028\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342047\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342059\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "Pursuit of Cappiness",
+    "team_2": "Primordial Clam Chowder",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1341965\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1341993\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342012\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342031\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "Soviet Ballers",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1341967\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1341988\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342004\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342024\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "The Pointless Warriors",
+    "team_2": "Ball My Life",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342127\",\"https:\/\/pastebin.com\/CY1jaBuE\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342146\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342181\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342214\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "C.R.E.A.M.",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342096\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342113\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342132\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342156\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "Jukkake",
+    "team_2": "Insane Cap Posse",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342040\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342053\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342067\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342081\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Transilio \/ Boombox",
+    "team_1": "The Team About Nothing",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342000\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342021\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1342036\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1342050\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "Flairbnb",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354073\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354106\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354136\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354159\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1354162\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "Ball or Nothing",
+    "team_2": "Rectal Rangers 3D",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354053\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354076\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354099\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354129\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "Boston Pops",
+    "team_2": "Primordial Clam Chowder",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354040\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354062\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354095\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354124\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "Pursuit of Cappiness",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354082\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354110\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1354131\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354155\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354181\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "TC Jukes",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354026\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354051\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354075\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354098\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "The Pointless Warriors",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1355940\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1355982\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1356002\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1356041\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1356061\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "Jukkake",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354065\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354089\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354121\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354148\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "Ball My Life",
+    "team_2": "C.R.E.A.M.",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354216\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354251\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354283\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354303\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Boombox \/ Scorpio",
+    "team_1": "Insane Cap Posse",
+    "team_2": "The Team About Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354081\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354100\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1354128\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1354153\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "The Pointless Warriors",
+    "team_2": "Flairbnb",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366784\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366807\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366833\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366850\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "Ball My Life",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366780\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366806\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366839\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366856\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "Whitecaps",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366823\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366849\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366870\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366885\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "C.R.E.A.M.",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366774\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366800\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366822\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366848\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "Jukkake",
+    "team_2": "Primordial Clam Chowder",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366755\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366775\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366801\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366829\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "Insane Cap Posse",
+    "team_2": "Boston Pops",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366725\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366741\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366769\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366793\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Rectal Rangers 3D",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366758\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366778\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1366797\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366816\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366841\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "The Team About Nothing",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366739\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366765\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1366777\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366799\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366819\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio \/ EMERALD",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366782\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366805\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366826\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366846\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "Flairbnb",
+    "team_2": "Primordial Clam Chowder",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379309\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379345\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379379\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379415\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "Boston Pops",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379442\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379468\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379494\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379515\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379456\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379482\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379511\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379537\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "Rectal Rangers 3D",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379381\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379408\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379434\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379464\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "Ball or Nothing",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379375\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379422\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379455\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379483\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "The Pointless Warriors",
+    "team_2": "Jukkake",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379431\"],\"Half 2\":[\"https:\/\/pastebin.com\/eqrMJ3VH\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379496\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379521\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "Ball My Life",
+    "team_2": "Insane Cap Posse",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379470\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379493\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379519\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379539\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "Whitecaps",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379507\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379532\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1379538\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379556\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379574\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "EMERALD \/ Constriction",
+    "team_1": "C.R.E.A.M.",
+    "team_2": "The Team About Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379452\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379478\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1379508\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1379535\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Flairbnb",
+    "team_2": "Rectal Rangers 3D",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1391999\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392028\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392051\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392081\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Boston Pops",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392001\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392033\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392059\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392080\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392055\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392082\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392113\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392141\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Pursuit of Cappiness",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1391923\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1391950\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1391958\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1391980\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392010\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Primordial Clam Chowder",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1391938\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1391966\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1391995\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392027\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1392038\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "The Pointless Warriors",
+    "team_2": "C.R.E.A.M.",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392075\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392110\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392134\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392172\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Ball My Life",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/VSMFpjqr\",\"https:\/\/tagpro.eu\/?match=1392192\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392220\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392242\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392267\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Jukkake",
+    "team_2": "The Team About Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392025\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392058\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392084\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392115\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-09",
+    "map": "Constriction \/ Pilot",
+    "team_1": "Insane Cap Posse",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392104\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392126\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1392160\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1392185\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "C.R.E.A.M.",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419083\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419103\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419116\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419126\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "Boston Pops",
+    "team_2": "Rectal Rangers 3D",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404204\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404228\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404253\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404280\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404193\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404220\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404243\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404276\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1404288\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "Flairbnb",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404211\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404236\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404262\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404293\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "Primordial Clam Chowder",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404201\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404229\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404256\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404289\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "TC Jukes",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404138\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404173\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404196\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404221\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "The Pointless Warriors",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404322\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404351\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404387\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404408\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "Ball My Life",
+    "team_2": "C.R.E.A.M.",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404375\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404395\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404417\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404430\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "Jukkake",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404241\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404277\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404306\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404332\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-16",
+    "map": "Pilot \/ Rush",
+    "team_1": "Insane Cap Posse",
+    "team_2": "The Team About Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404250\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404279\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1404312\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1404336\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "Jukkake",
+    "team_2": "Boston Pops",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418947\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418970\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418993\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419012\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "Insane Cap Posse",
+    "team_2": "Primordial Clam Chowder",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418949\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418975\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419000\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419020\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418939\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418965\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418984\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419015\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1419034\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "The Team About Nothing",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418983\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419005\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419023\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419044\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "Flairbnb",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418937\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418966\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418991\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419008\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "The Pointless Warriors",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418996\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419018\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419042\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419069\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "Ball My Life",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419124\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419131\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419141\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419154\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-23",
+    "map": "Rush \/ Wormy",
+    "team_1": "Whitecaps",
+    "team_2": "Rectal Rangers 3D",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419050\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419074\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1419098\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1419111\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Flairbnb",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431181\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431200\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431219\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431241\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1431248\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Boston Pops",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431058\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431084\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431108\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431137\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1431149\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Over the Pants Handoffs",
+    "team_2": "Primordial Clam Chowder",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431067\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431088\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431119\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431144\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Rectal Rangers 3D",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431141\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431167\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431192\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431212\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Ball or Nothing",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431183\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431203\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431221\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431243\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "The Pointless Warriors",
+    "team_2": "C.R.E.A.M.",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431180\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431201\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431222\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431244\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Ball My Life",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431284\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431301\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431325\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431343\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Jukkake",
+    "team_2": "The Team About Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431182\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431204\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431223\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431245\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1431250\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "Wormy \/ Monarch",
+    "team_1": "Insane Cap Posse",
+    "team_2": "Peque\u00f1os Pandas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431184\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431209\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1431231\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1431256\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "Flairbnb",
+    "team_2": "Ball or Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441965\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441998\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442025\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442055\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "Boston Pops",
+    "team_2": "Over the Pants Handoffs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441861\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441882\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441904\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441932\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "Rectal Rangers 3D",
+    "team_2": "Soviet Ballers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441964\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441993\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442021\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442049\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1442056\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "Primordial Clam Chowder",
+    "team_2": "Six Flags",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442009\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442050\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442082\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442113\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1442125\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "TC Jukes",
+    "team_2": "Pursuit of Cappiness",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442024\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442051\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442081\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442106\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "The Pointless Warriors",
+    "team_2": "Ball My Life",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/WCHiqidF\",\"https:\/\/tagpro.eu\/?match=1442141\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442161\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442176\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442195\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "C.R.E.A.M.",
+    "team_2": "Whitecaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442120\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442131\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442148\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442168\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "Insane Cap Posse",
+    "team_2": "Jukkake",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442029\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442060\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442083\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442105\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "Monarch \/ Transilio",
+    "team_1": "Peque\u00f1os Pandas",
+    "team_2": "The Team About Nothing",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442061\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442090\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1442115\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1442130\"]}}"
+}]

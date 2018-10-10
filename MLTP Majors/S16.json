@@ -1,0 +1,598 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Chennai Super Pings (Minors)",
+    "team_2": "The Jungle Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938898\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938913\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938926\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938940\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Attention Wars",
+    "team_2": "The Holy Seehawks (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938901\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938918\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1938927\",\"https:\/\/tagpro.eu\/?match=1938935\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938952\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938964\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Blue Hot Chili Poppers",
+    "team_2": "Boostnia and Herzegovina",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938810\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938823\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938842\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938855\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Stranger Pings (Minors)",
+    "team_2": "Mickey Mouse Poperation (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938893\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938905\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938924\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938937\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Club Pinguin",
+    "team_2": "Pi-Curious (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937872\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937882\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937889\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937902\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "She Wants the KD (Minors)",
+    "team_2": "Creokoalas (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938835\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938852\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1938865\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1938876\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "Chennai Super Pings (Minors)",
+    "team_2": "Blue Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950841\"],\"Half 2\":[\"https:\/\/pastebin.com\/qEsCnCE9\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/RD5bnb42\"],\"Half 2\":[\"https:\/\/pastebin.com\/G5Nw17WY\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "Attention Wars",
+    "team_2": "Stranger Pings (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1944693\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944704\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1944720\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944733\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "The Holy Seehawks (Minors)",
+    "team_2": "Club Pinguin",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1944756\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944764\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1944772\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944780\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "The Jungle Jukes",
+    "team_2": "She Wants the KD (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1944723\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944736\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/Exap0Cui\"],\"Half 2\":[\"https:\/\/pastebin.com\/6mLGzQBJ\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "Creokoalas (Minors)",
+    "team_2": "Boostnia and Herzegovina",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1944662\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944670\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/0GVrkUMt\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944700\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "Pi-Curious (Minors)",
+    "team_2": "Mickey Mouse Poperation (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/eMMpn3PA\"],\"Half 2\":[\"https:\/\/pastebin.com\/S4v6qCxd\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1944672\",\"https:\/\/pastebin.com\/VStYBfNQ\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1944696\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1944713\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Chennai Super Pings (Minors)",
+    "team_2": "Creokoalas (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950783\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950799\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950810\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950822\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Attention Wars",
+    "team_2": "Pi-Curious (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950864\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950875\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950886\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950895\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "The Holy Seehawks (Minors)",
+    "team_2": "Mickey Mouse Poperation (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/SdxpiWcU\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950911\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950926\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950937\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "The Jungle Jukes",
+    "team_2": "Boostnia and Herzegovina",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950890\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950902\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/P4xw6zKy\"],\"Half 2\":[\"https:\/\/pastebin.com\/MuDak5qK\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Blue Hot Chili Poppers",
+    "team_2": "She Wants the KD (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/wjnsTqMU\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957742\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957757\"],\"Half 2\":[\"https:\/\/pastebin.com\/PJJKCsNv\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Stranger Pings (Minors)",
+    "team_2": "Club Pinguin",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950883\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950889\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950900\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950914\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "Chennai Super Pings (Minors)",
+    "team_2": "Attention Wars",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956928\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956942\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956953\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956964\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "The Holy Seehawks (Minors)",
+    "team_2": "The Jungle Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956993\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957001\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1957011\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1957021\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "Blue Hot Chili Poppers",
+    "team_2": "Creokoalas (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956946\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956960\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956973\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956984\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "Stranger Pings (Minors)",
+    "team_2": "Pi-Curious (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956954\"],\"Half 2\":[\"https:\/\/pastebin.com\/5u3s1n4t\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/zc0zJWNa\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956988\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "Club Pinguin",
+    "team_2": "Mickey Mouse Poperation (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/5P4ceV16\"],\"Half 2\":[\"https:\/\/pastebin.com\/Ws0C3bKf\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956976\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956985\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "She Wants the KD (Minors)",
+    "team_2": "Boostnia and Herzegovina",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956883\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956892\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956902\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956920\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "Chennai Super Pings (Minors)",
+    "team_2": "Stranger Pings (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962580\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962597\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962610\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962627\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "Attention Wars",
+    "team_2": "Club Pinguin",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962592\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962605\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962617\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962632\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "The Holy Seehawks (Minors)",
+    "team_2": "She Wants the KD (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967450\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967460\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967470\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967479\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "The Jungle Jukes",
+    "team_2": "Blue Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1964181\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1964193\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1964203\",\"https:\/\/tagpro.eu\/?match=1964210\",\"https:\/\/tagpro.eu\/?match=1964223\",\"https:\/\/tagpro.eu\/?match=1964228\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1964244\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1964259\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1964268\",\"https:\/\/tagpro.eu\/?match=1964276\",\"https:\/\/tagpro.eu\/?match=1964288\",\"https:\/\/tagpro.eu\/?match=1964293\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "Creokoalas (Minors)",
+    "team_2": "Pi-Curious (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1964122\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1964132\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1964142\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1964154\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "Mickey Mouse Poperation (Minors)",
+    "team_2": "Boostnia and Herzegovina",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962548\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962562\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962575\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962593\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "Chennai Super Pings (Minors)",
+    "team_2": "Pi-Curious (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968286\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968300\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968316\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968327\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "Attention Wars",
+    "team_2": "Mickey Mouse Poperation (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968339\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968350\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1968356\",\"https:\/\/tagpro.eu\/?match=1968362\",\"https:\/\/tagpro.eu\/?match=1968369\",\"https:\/\/tagpro.eu\/?match=1968374\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968389\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968402\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "The Holy Seehawks (Minors)",
+    "team_2": "Boostnia and Herzegovina",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968321\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968334\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968347\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968357\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "The Jungle Jukes",
+    "team_2": "Creokoalas (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968288\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968303\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968320\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968330\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "Blue Hot Chili Poppers",
+    "team_2": "Stranger Pings (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968283\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968295\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968310\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968322\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "Club Pinguin",
+    "team_2": "She Wants the KD (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968344\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968354\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968365\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968377\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1968385\",\"https:\/\/tagpro.eu\/?match=1968394\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Chennai Super Pings (Minors)",
+    "team_2": "The Holy Seehawks (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974369\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974385\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974403\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974420\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Attention Wars",
+    "team_2": "The Jungle Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974401\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974413\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974427\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974443\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Blue Hot Chili Poppers",
+    "team_2": "Club Pinguin",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/KXTs1Yx7\"],\"Half 2\":[\"https:\/\/pastebin.com\/cDmjhXKH\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/pc7tAyCW\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974349\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Stranger Pings (Minors)",
+    "team_2": "She Wants the KD (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/ucUKSjqy\"],\"Half 2\":[\"https:\/\/pastebin.com\/QYMLCHhc\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974335\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974348\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Creokoalas (Minors)",
+    "team_2": "Mickey Mouse Poperation (Minors)",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975904\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975916\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975927\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975939\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Pi-Curious (Minors)",
+    "team_2": "Boostnia and Herzegovina",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/7EDKPm0E\"],\"Half 2\":[\"https:\/\/pastebin.com\/uwRwtVhP\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974327\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974341\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Chennai Super Pings",
+    "team_2": "The Good Gravy Boat",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937856\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937868\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937877\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937887\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1937892\",\"https:\/\/tagpro.eu\/?match=1937901\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Centra of Attention",
+    "team_2": "The Holy Seehawks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1943842\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1943850\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1943859\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1943865\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Red Hot Chili Poppers",
+    "team_2": "The United Pingdom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937811\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937822\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937830\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937845\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "Stranger Pings",
+    "team_2": "Mickey Mouse Poperation",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937907\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937918\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937927\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937935\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "TC Jukes",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937860\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937874\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937883\",\"https:\/\/pastebin.com\/PZaUQEwr\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937890\"]}}"
+}, {
+    "week_num": "1",
+    "date": null,
+    "map": "EMERALD \/\/ Transilio",
+    "team_1": "She Wants the KD",
+    "team_2": "CreoKoalas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937885\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937891\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1937904\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1937913\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "Chennai Super Pings",
+    "team_2": "Red Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1941284\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1941293\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1941301\"],\"Half 2\":[\"https:\/\/pastebin.com\/SpjcEbbG\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "Centra of Attention",
+    "team_2": "Stranger Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951798\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951803\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951814\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951825\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "The Holy Seehawks",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1945572\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1945579\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1945589\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1945603\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "The Good Gravy Boat",
+    "team_2": "She Wants the KD",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1948385\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1948393\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/BRk6YF5t\"],\"Half 2\":[\"https:\/\/pastebin.com\/FuvcKDEb\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "CreoKoalas",
+    "team_2": "The United Pingdom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1943748\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1943758\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1943768\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1943784\"]}}"
+}, {
+    "week_num": "2",
+    "date": null,
+    "map": "Transilio \/\/ Jardim",
+    "team_1": "Pi-Curious",
+    "team_2": "Mickey Mouse Poperation",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1943780\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1943802\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1943817\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1943826\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Chennai Super Pings",
+    "team_2": "CreoKoalas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/nMWffV7L\"],\"Half 2\":[\"https:\/\/pastebin.com\/PSZyy513\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/mC4s5uJs\"],\"Half 2\":[\"https:\/\/pastebin.com\/P9hYHixD\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Centra of Attention",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950044\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950053\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1950063\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950073\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "The Holy Seehawks",
+    "team_2": "Mickey Mouse Poperation",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951792\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951799\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1951807\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1951818\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "The Good Gravy Boat",
+    "team_2": "The United Pingdom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1949953\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1949968\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1949972\",\"https:\/\/tagpro.eu\/?match=1949979\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1949991\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950003\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1950013\",\"https:\/\/tagpro.eu\/?match=1950019\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Red Hot Chili Poppers",
+    "team_2": "She Wants the KD",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/cN6mt2RG\"],\"Half 2\":[\"https:\/\/pastebin.com\/EVxzFgNC\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/W1fbiYdY\"],\"Half 2\":[\"https:\/\/pastebin.com\/rn0DnBLQ\"]}}"
+}, {
+    "week_num": "3",
+    "date": null,
+    "map": "Jardim \/\/ Cedar",
+    "team_1": "Stranger Pings",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1949971\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1949980\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1949990\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1950000\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "Chennai Super Pings",
+    "team_2": "Centra of Attention",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956114\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956128\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956134\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956143\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "The Holy Seehawks",
+    "team_2": "The Good Gravy Boat",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1958813\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1958825\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1958835\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1958840\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "Red Hot Chili Poppers",
+    "team_2": "CreoKoalas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956021\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956031\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956045\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956060\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "Stranger Pings",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956084\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956098\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956108\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956123\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "TC Jukes",
+    "team_2": "Mickey Mouse Poperation",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956138\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956144\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956161\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956174\"]}}"
+}, {
+    "week_num": "4",
+    "date": null,
+    "map": "Cedar \/\/ Community",
+    "team_1": "She Wants the KD",
+    "team_2": "The United Pingdom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956055\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956075\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1956082\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1956094\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "Chennai Super Pings",
+    "team_2": "Stranger Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1961643\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1961653\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1961660\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1961668\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "Centra of Attention",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1961638\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1961650\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1961657\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1961666\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "The Holy Seehawks",
+    "team_2": "She Wants the KD",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1961656\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1961665\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1961672\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1961681\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "The Good Gravy Boat",
+    "team_2": "Red Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963439\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1963453\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1963465\",\"https:\/\/pastebin.com\/8zHqnYen\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1963478\"],\"Half 2\":[\"https:\/\/pastebin.com\/eGd1Yra1\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "CreoKoalas",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967435\"],\"Half 2\":[\"https:\/\/pastebin.com\/kNdeuae6\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967457\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967465\"]}}"
+}, {
+    "week_num": "5",
+    "date": null,
+    "map": "Community \/\/ Rush",
+    "team_1": "Mickey Mouse Poperation",
+    "team_2": "The United Pingdom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962659\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962668\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1962677\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1962684\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "Chennai Super Pings",
+    "team_2": "Pi-Curious",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967481\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967487\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967498\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967512\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "Centra of Attention",
+    "team_2": "Mickey Mouse Poperation",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/wgpWmnKr\"],\"Half 2\":[\"https:\/\/pastebin.com\/rzZJbW5n\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/dTWE7ZQ1\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1969263\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "The Holy Seehawks",
+    "team_2": "The United Pingdom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967494\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967505\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967517\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967527\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "The Good Gravy Boat",
+    "team_2": "CreoKoalas",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/zSUqbbtA\"],\"Half 2\":[\"https:\/\/pastebin.com\/BDJ9cAuq\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/DLT3LXjB\"],\"Half 2\":[\"https:\/\/pastebin.com\/uGxWfGnd\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "Red Hot Chili Poppers",
+    "team_2": "Stranger Pings",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/Zke2B8JB\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967456\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1967464\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1967472\"]}}"
+}, {
+    "week_num": "6",
+    "date": null,
+    "map": "Rush \/\/ Pilot",
+    "team_1": "TC Jukes",
+    "team_2": "She Wants the KD",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968265\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968277\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1968290\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1968302\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Chennai Super Pings",
+    "team_2": "The Holy Seehawks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1973463\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1973475\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1973484\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1973492\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Centra of Attention",
+    "team_2": "The Good Gravy Boat",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975228\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975239\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1975245\",\"https:\/\/tagpro.eu\/?match=1975251\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1975271\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1975287\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Red Hot Chili Poppers",
+    "team_2": "TC Jukes",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974260\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974272\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1974279\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1974290\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Stranger Pings",
+    "team_2": "She Wants the KD",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/17u8ZNRW\"],\"Half 2\":[\"https:\/\/pastebin.com\/jqistyGT\"],\"Overtime\":[\"https:\/\/pastebin.com\/XvN47BnZ\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/vmb4hzKi\"],\"Half 2\":[\"https:\/\/pastebin.com\/PffG7kma\"],\"Overtime\":[\"https:\/\/pastebin.com\/XvN47BnZ\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "CreoKoalas",
+    "team_2": "Mickey Mouse Poperation",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/FmJaypT4\"],\"Half 2\":[\"https:\/\/pastebin.com\/AdR87qfY\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1973508\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1973513\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Pilot \/\/ EMERALD",
+    "team_1": "Pi-Curious",
+    "team_2": "The United Pingdom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1973404\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1973415\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1973419\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1973432\"]}}"
+}]

@@ -1,0 +1,304 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-07-16",
+    "map": "EMERALD, Cedar",
+    "team_1": "Origin Ducks",
+    "team_2": "Banana Boat Crew",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1503895\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1503915\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1503942\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1503962\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-07-16",
+    "map": "EMERALD, Cedar",
+    "team_1": "ThunderCaps",
+    "team_2": "The New York Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502357\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502376\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502399\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502415\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-07-16",
+    "map": "EMERALD, Cedar",
+    "team_1": "Chase Jam",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541602\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541620\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541640\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541656\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-07-16",
+    "map": "EMERALD, Cedar",
+    "team_1": "Spikeology",
+    "team_2": "Spjork and the Seven Jorks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502514\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502526\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502537\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502556\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-07-16",
+    "map": "EMERALD, Cedar",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502380\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502398\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502411\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502432\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-07-16",
+    "map": "EMERALD, Cedar",
+    "team_1": "Red Hot Chili Poppers",
+    "team_2": "13 Seasons Why",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502517\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502529\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1502540\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1502559\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-23",
+    "map": "Cedar,Transilio",
+    "team_1": "Chase Jam",
+    "team_2": "Origin Ducks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512685\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512703\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512718\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512727\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-23",
+    "map": "Cedar,Transilio",
+    "team_1": "The New York Timers",
+    "team_2": "Banana Boat Crew",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512744\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512758\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512771\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512788\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-23",
+    "map": "Cedar,Transilio",
+    "team_1": "Boostin Dynamo",
+    "team_2": "ThunderCaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1514300\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1514322\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1514346\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1514366\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-23",
+    "map": "Cedar,Transilio",
+    "team_1": "Red Hot Chili Poppers",
+    "team_2": "Spikeology",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512722\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512743\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512759\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512768\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-23",
+    "map": "Cedar,Transilio",
+    "team_1": "Tears For Spheres",
+    "team_2": "Spjork and the Seven Jorks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512827\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512853\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1512873\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1512893\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-07-23",
+    "map": "Cedar,Transilio",
+    "team_1": "13 Seasons Why",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1508541\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1508563\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1508587\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1508604\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-30",
+    "map": "Transilio,Jardim",
+    "team_1": "Banana Boat Crew",
+    "team_2": "Red Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/6tjC8SXV\"],\"Half 2\":[\"https:\/\/pastebin.com\/HnYFJ6aj\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/RJMhRbkb\"],\"Half 2\":[\"https:\/\/pastebin.com\/BW0QWquh\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-30",
+    "map": "Transilio,Jardim",
+    "team_1": "The New York Timers",
+    "team_2": "Spikeology",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523276\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523300\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523334\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523367\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-30",
+    "map": "Transilio,Jardim",
+    "team_1": "Boostin Dynamo",
+    "team_2": "13 Seasons Why",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523436\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523450\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523476\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523487\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-30",
+    "map": "Transilio,Jardim",
+    "team_1": "Chase Jam",
+    "team_2": "Spjork and the Seven Jorks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523265\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523290\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1523302\",\"https:\/\/tagpro.eu\/?match=1523315\",\"https:\/\/tagpro.eu\/?match=1523322\",\"https:\/\/tagpro.eu\/?match=1523343\",\"https:\/\/tagpro.eu\/?match=1523348\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523375\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523400\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-30",
+    "map": "Transilio,Jardim",
+    "team_1": "ThunderCaps",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1524747\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1524773\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1524802\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1524843\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-07-30",
+    "map": "Transilio,Jardim",
+    "team_1": "Origin Ducks",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523210\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523229\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1523250\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1523273\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-08-06",
+    "map": "Jardim,Pilot",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Origin Ducks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532268\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532286\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532307\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532325\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1532334    https:\/\/tagpro.eu\/?match=1532339\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-08-06",
+    "map": "Jardim,Pilot",
+    "team_1": "The New York Timers",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532375\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532399\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532421\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532453\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-08-06",
+    "map": "Jardim,Pilot",
+    "team_1": "ThunderCaps",
+    "team_2": "Banana Boat Crew",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1535152\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1535178\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1535201\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1535223\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-08-06",
+    "map": "Jardim,Pilot",
+    "team_1": "13 Seasons Why",
+    "team_2": "Spikeology",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532418\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532448\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532469\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532485\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-08-06",
+    "map": "Jardim,Pilot",
+    "team_1": "Tears For Spheres",
+    "team_2": "Red Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532352\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532369\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532390\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532413\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1532424\",\"https:\/\/tagpro.eu\/?match=1532437\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-08-06",
+    "map": "Jardim,Pilot",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Spjork and the Seven Jorks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532367\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532383\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1532396\",\"https:\/\/tagpro.eu\/?match=1532406\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1532434\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1532462\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-13",
+    "map": "Pilot,COMMUNITY",
+    "team_1": "Banana Boat Crew",
+    "team_2": "13 Seasons Why",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/2b8Qzedc\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541599\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/E8seRLb5\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541639\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1541651\",\"https:\/\/pastebin.com\/0Q6CaLzy\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-13",
+    "map": "Pilot,COMMUNITY",
+    "team_1": "The New York Timers",
+    "team_2": "Spjork and the Seven Jorks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1542768\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1542794\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1542815\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1542827\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-13",
+    "map": "Pilot,COMMUNITY",
+    "team_1": "Origin Ducks",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541487\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541504\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541525\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541546\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-13",
+    "map": "Pilot,COMMUNITY",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Red Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541493\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541524\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541548\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541566\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-13",
+    "map": "Pilot,COMMUNITY",
+    "team_1": "Chase Jam",
+    "team_2": "Spikeology",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541479\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541496\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1541523\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1541542\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-08-13",
+    "map": "Pilot,COMMUNITY",
+    "team_1": "ThunderCaps",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545474\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1545493\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1545510\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1545526\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-08-20",
+    "map": "COMMUNITY,Wormy",
+    "team_1": "Origin Ducks",
+    "team_2": "ThunderCaps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550573\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550596\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550620\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550631\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-08-20",
+    "map": "COMMUNITY,Wormy",
+    "team_1": "Banana Boat Crew",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550639\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550652\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550663\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550677\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1550682\",\"https:\/\/tagpro.eu\/?match=1550689\",\"https:\/\/tagpro.eu\/?match=1550696\",\"https:\/\/tagpro.eu\/?match=1550704\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-08-20",
+    "map": "COMMUNITY,Wormy",
+    "team_1": "Boostin Dynamo",
+    "team_2": "The New York Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1555919\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1555936\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1555954\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1555969\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-08-20",
+    "map": "COMMUNITY,Wormy",
+    "team_1": "Spikeology",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550653\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550662\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550674\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550687\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-08-20",
+    "map": "COMMUNITY,Wormy",
+    "team_1": "Spjork and the Seven Jorks",
+    "team_2": "Red Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/KrZZwvuu\"],\"Half 2\":[\"https:\/\/pastebin.com\/7tJMhgTU\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/hr1vehtU\"],\"Half 2\":[\"https:\/\/pastebin.com\/xix5cRKy\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-08-20",
+    "map": "COMMUNITY,Wormy",
+    "team_1": "13 Seasons Why",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550723\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550737\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1550751\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1550766\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-08-27",
+    "map": "Wormy,EMERALD",
+    "team_1": "ThunderCaps",
+    "team_2": "Chase Jam",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1559806\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1559818\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1559832\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1559850\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-08-27",
+    "map": "Wormy,EMERALD",
+    "team_1": "Banana Boat Crew",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1559930\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1559937\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1559944\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1559959\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-08-27",
+    "map": "Wormy,EMERALD",
+    "team_1": "Origin Ducks",
+    "team_2": "The New York Timers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/SAWkSkCR\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1564075\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564097\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1564115\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-08-27",
+    "map": "Wormy,EMERALD",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Red Hot Chili Poppers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564042\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1564056\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1564078\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1564101\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-08-27",
+    "map": "Wormy,EMERALD",
+    "team_1": "Spjork and the Seven Jorks",
+    "team_2": "13 Seasons Why",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1565359\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1565381\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1565396\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1565411\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-08-27",
+    "map": "Wormy,EMERALD",
+    "team_1": "Spikeology",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1559870\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1559883\"],\"Overtime\":[\"https:\/\/tagpro.eu\/?match=1559892\",\"https:\/\/tagpro.eu\/?match=1559900\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1559915\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1559927\"]}}"
+}]

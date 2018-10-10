@@ -1,0 +1,234 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Atomic",
+    "team_1": "Ballmere City",
+    "team_2": "Ball Street",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1341377\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1341399\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Atomic",
+    "team_1": "Turtle Cobras",
+    "team_2": "TC Ballieveldert",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1341480\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1341511\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2017-04-11",
+    "map": "Atomic",
+    "team_1": "AC Spartag",
+    "team_2": "Plymouth Artyle",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1341459\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1341494\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Pilot, Scorpio",
+    "team_1": "Ball Street",
+    "team_2": "Turtle Cobras",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1353387\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1353427\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1353469\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1353497\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Pilot, Scorpio",
+    "team_1": "TC Ballieveldert",
+    "team_2": "Plymouth Artyle",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1353358\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1353389\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1353416\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1353445\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2017-04-18",
+    "map": "Pilot, Scorpio",
+    "team_1": "Ballmere City",
+    "team_2": "AC Spartag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1353356\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1353393\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1353425\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1353446\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio &amp; Market",
+    "team_1": "Turtle Cobras",
+    "team_2": "Ballmere City",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366055\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366078\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366103\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366131\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio &amp; Market",
+    "team_1": "TC Ballieveldert",
+    "team_2": "AC Spartag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366059\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366082\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366108\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366147\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2017-04-25",
+    "map": "Scorpio &amp; Market",
+    "team_1": "Plymouth Artyle",
+    "team_2": "Ball Street",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366062\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366085\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1366110\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1366137\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "Market &amp; Community Map",
+    "team_1": "AC Spartag",
+    "team_2": "Turtle Cobras",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378544\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378566\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378596\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378621\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "Market &amp; Community Map",
+    "team_1": "Ball Street",
+    "team_2": "TC Ballieveldert",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378552\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378584\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378612\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378642\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2017-05-02",
+    "map": "Market &amp; Community Map",
+    "team_1": "Ballmere City",
+    "team_2": "Plymouth Artyle",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378548\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378569\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1378601\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1378627\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-16",
+    "map": "Community Map &amp; Transillo",
+    "team_1": "Turtle Cobras",
+    "team_2": "Plymouth Artyle",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1403499\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1403527\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1403562\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1403581\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-16",
+    "map": "Community Map &amp; Transillo",
+    "team_1": "TC Ballieveldert",
+    "team_2": "Ballmere City",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1403482\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1403515\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1403543\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1403571\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2017-05-16",
+    "map": "Community Map &amp; Transillo",
+    "team_1": "Ball Street",
+    "team_2": "AC Spartag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1403480\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1403507\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1403537\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1403570\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-23",
+    "map": "Transillo",
+    "team_1": "Ballmere City",
+    "team_2": "Ball Street",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418314\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418337\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418359\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418376\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-23",
+    "map": "Transillo",
+    "team_1": "Plymouth Artyle",
+    "team_2": "AC Spartag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418357\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418373\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418390\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418414\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2017-05-23",
+    "map": "Transillo",
+    "team_1": "Turtle Cobras",
+    "team_2": "TC Ballieveldert",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418320\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418348\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1418378\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1418400\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-30",
+    "map": "Tehuitzingo",
+    "team_1": "Ball Street",
+    "team_2": "Turtle Cobras",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1430489\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1430507\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2017-06-06",
+    "map": "Pilot",
+    "team_1": "AC Spartag",
+    "team_2": "Ball Street",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441284\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441309\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "EMERALD",
+    "team_1": "Ballmere City",
+    "team_2": "Plymouth Artyle",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441211\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441245\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Tehuitzingo",
+    "team_1": "disabled",
+    "team_2": "disabled",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"],\"Half 2\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-30",
+    "map": "Tehuitzingo",
+    "team_1": "TC Ballieveldert",
+    "team_2": "Plymouth Artyle",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1430504\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1430527\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"],\"Half 2\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2017-05-30",
+    "map": "Tehuitzingo",
+    "team_1": "AC Spartag",
+    "team_2": "Ballmere City",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1430515\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1430538\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "EMERALD",
+    "team_1": "Turtle Cobras",
+    "team_2": "AC Spartag",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441213\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441239\"]}}"
+}, {
+    "week_num": "7",
+    "date": null,
+    "map": "Tehuitzingo",
+    "team_1": "disabled",
+    "team_2": "disabled",
+    "links": "{\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"],\"Half 2\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "EMERALD",
+    "team_1": "Plymouth Artyle",
+    "team_2": "Ball Street",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1430550\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1430564\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "EMERALD",
+    "team_1": "Ballmere City",
+    "team_2": "Turtle Cobras",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1430557\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1430573\"]}}"
+}, {
+    "week_num": "8",
+    "date": "2017-05-30",
+    "map": "EMERALD",
+    "team_1": "AC Spartag",
+    "team_2": "TC Ballieveldert",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1430556\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1430577\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2017-06-06",
+    "map": "Pilot",
+    "team_1": "Plymouth Artyle",
+    "team_2": "Turtle Cobras",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441287\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441315\"]}}"
+}, {
+    "week_num": "10",
+    "date": "2017-06-06",
+    "map": "Pilot",
+    "team_1": "Ballmere City",
+    "team_2": "TC Ballieveldert",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441275\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441310\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"],\"Half 2\":[\"https:\/\/pastebin.com\/2Nrpyk1J\"]}}"
+}, {
+    "week_num": "9",
+    "date": "2017-06-06",
+    "map": "EMERALD",
+    "team_1": "TC Ballieveldert",
+    "team_2": "Ball Street",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1441215\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1441241\"]}}"
+}]

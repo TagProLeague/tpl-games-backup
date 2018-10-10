@@ -1,0 +1,304 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'tpl_backup'
+
+// tpl_backup.games
+
+[{
+    "week_num": "1",
+    "date": "2016-11-20",
+    "map": "Pilot \/ Rush",
+    "team_1": "The Holy Seehawks",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062468\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062489\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062508\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062532\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-11-20",
+    "map": "Pilot \/ Rush",
+    "team_1": "Tears For Spheres",
+    "team_2": "Snipe Hunt",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062503\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062528\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062553\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062579\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-27",
+    "map": "Rush \/ Birch",
+    "team_1": "Balls on Parade",
+    "team_2": "Degrees of Freedom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075441\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075470\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075507\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075538\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-27",
+    "map": "Rush \/ Birch",
+    "team_1": "Holy Rollers",
+    "team_2": "Liberty Caps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075457\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075487\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075519\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075552\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-27",
+    "map": "Rush \/ Birch",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075292\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075325\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075367\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075402\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-27",
+    "map": "Rush \/ Birch",
+    "team_1": "Tears For Spheres",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075607\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075638\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075674\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075697\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-27",
+    "map": "Rush \/ Birch",
+    "team_1": "Merballs",
+    "team_2": "Return of the Ping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075438\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075467\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075496\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075524\"]}}"
+}, {
+    "week_num": "2",
+    "date": "2016-11-27",
+    "map": "Rush \/ Birch",
+    "team_1": "Snipe Hunt",
+    "team_2": "The Holy Seehawks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075517\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075547\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1075566\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1075593\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-12-04",
+    "map": "Birch \/ Transilio",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "The Holy Seehawks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091372\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091402\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091435\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091463\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-12-04",
+    "map": "Birch \/ Transilio",
+    "team_1": "Liberty Caps",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091562\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091579\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091608\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091630\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-12-04",
+    "map": "Birch \/ Transilio",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091567\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091603\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091624\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091642\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-12-04",
+    "map": "Birch \/ Transilio",
+    "team_1": "Holy Rollers",
+    "team_2": "Return of the Ping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091442\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091474\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091500\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091529\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-12-04",
+    "map": "Birch \/ Transilio",
+    "team_1": "Balls on Parade",
+    "team_2": "Snipe Hunt",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091399\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091429\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091461\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091487\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-11-20",
+    "map": "Pilot \/ Rush",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Liberty Caps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062518\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062542\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062567\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062601\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-11-20",
+    "map": "Pilot \/ Rush",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Holy Rollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062357\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062380\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062408\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062429\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-11-20",
+    "map": "Pilot \/ Rush",
+    "team_1": "Balls on Parade",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062421\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062439\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062462\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062476\"]}}"
+}, {
+    "week_num": "1",
+    "date": "2016-11-20",
+    "map": "Pilot \/ Rush",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Return of the Ping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062614\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062642\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1062665\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1062686\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-12-11",
+    "map": "Transilio \/ Jardim",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Degrees of Freedom",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105822\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105858\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105902\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105932\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-12-11",
+    "map": "Transilio \/ Jardim",
+    "team_1": "Holy Rollers",
+    "team_2": "Balls on Parade",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105810\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105842\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105886\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105920\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-12-11",
+    "map": "Transilio \/ Jardim",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Liberty Caps",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105737\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105769\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105796\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105821\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-12-11",
+    "map": "Transilio \/ Jardim",
+    "team_1": "Snipe Hunt",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105954\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105981\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1106006\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1106030\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-12-11",
+    "map": "Transilio \/ Jardim",
+    "team_1": "Merballs",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105943\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105966\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105995\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1106021\"]}}"
+}, {
+    "week_num": "4",
+    "date": "2016-12-11",
+    "map": "Transilio \/ Jardim",
+    "team_1": "The Holy Seehawks",
+    "team_2": "Return of the Ping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105684\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105709\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1105743\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1105774\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-12-18",
+    "map": "Jardim \/ Community",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Boats 'n' Holds",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168555\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168584\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168614\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168638\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-12-18",
+    "map": "Jardim \/ Community",
+    "team_1": "Liberty Caps",
+    "team_2": "Balls on Parade",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122575\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122616\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122660\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122689\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-12-18",
+    "map": "Jardim \/ Community",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Holy Rollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122391\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122439\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122483\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122520\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-12-18",
+    "map": "Jardim \/ Community",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "The Holy Seehawks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1124637\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1124677\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1124715\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1124751\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-12-18",
+    "map": "Jardim \/ Community",
+    "team_1": "Return of the Ping",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122657\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122693\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122723\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122740\"]}}"
+}, {
+    "week_num": "5",
+    "date": "2016-12-18",
+    "map": "Jardim \/ Community",
+    "team_1": "Snipe Hunt",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122378\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122414\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1122463\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1122511\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-01-08",
+    "map": "Community \/ EMERALD",
+    "team_1": "Holy Rollers",
+    "team_2": "The Holy Seehawks",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1170400\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1170429\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1170464\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1170492\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-01-08",
+    "map": "Community \/ EMERALD",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168622\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168648\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168680\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168714\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-01-08",
+    "map": "Community \/ EMERALD",
+    "team_1": "Balls on Parade",
+    "team_2": "Holdin' Gate Warriors",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168763\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168795\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168821\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168838\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-01-08",
+    "map": "Community \/ EMERALD",
+    "team_1": "Liberty Caps",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168684\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168718\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168745\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168774\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-01-08",
+    "map": "Community \/ EMERALD",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Return of the Ping",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168690\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168719\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168751\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168780\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-01-15",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Balls on Parade",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1180973\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1180985\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181010\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181023\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-01-15",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Liberty Caps",
+    "team_2": "Boostin Dynamo",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1180947\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1180966\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1180980\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1180993\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-01-15",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Degrees of Freedom",
+    "team_2": "Holy Rollers",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181167\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181200\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181220\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181246\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-01-15",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "The Holy Seehawks",
+    "team_2": "Tears For Spheres",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181262\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181282\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181305\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181317\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-01-15",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Return of the Ping",
+    "team_2": "Snipe Hunt",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181155\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181180\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181205\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181232\"]}}"
+}, {
+    "week_num": "7",
+    "date": "2016-01-15",
+    "map": "EMERALD \/ Pilot",
+    "team_1": "Holdin' Gate Warriors",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181238\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181254\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1181275\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1181296\"]}}"
+}, {
+    "week_num": "3",
+    "date": "2016-12-04",
+    "map": "Birch \/ Transilio",
+    "team_1": "Boostin Dynamo",
+    "team_2": "Merballs",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091418\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091454\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1091477\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1091509\"]}}"
+}, {
+    "week_num": "6",
+    "date": "2016-01-08",
+    "map": "Community \/ EMERALD",
+    "team_1": "Boats 'n' Holds",
+    "team_2": "Snipe Hunt",
+    "links": "{\"Game 1\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168419\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168444\"]},\"Game 2\":{\"Half 1\":[\"https:\/\/tagpro.eu\/?match=1168483\"],\"Half 2\":[\"https:\/\/tagpro.eu\/?match=1168512\"]}}"
+}]
