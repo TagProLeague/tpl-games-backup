@@ -1,12 +1,3 @@
-/**
- Export to JSON plugin for PHPMyAdmin
- @version 0.1
- */
-
-// Database 'tpl_backup'
-
-// tpl_backup.games
-
 [{
     "week_num": "1",
     "date": null,
